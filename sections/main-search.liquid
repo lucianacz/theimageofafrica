@@ -28,7 +28,7 @@
         {%- for item in search.results -%}
 
           {%- if item.object_type == 'product' -%}
-            {%- render 'product-grid-item', product: item, per_row: 4 -%}
+            {%- render 'product-grid-item', product: item, per_row: 4, show_price: false -%}
           {%- else -%}
             <div class="grid__item grid-search medium-up--one-quarter medium--one-half">
               <div class="grid-search__page">

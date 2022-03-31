@@ -50,8 +50,11 @@
             {% endif %}
           </div>
         {% endif %}
+        {% if block.settings.subheading != blank %}
+        <div class="rte-setting text-spacing">{{ block.settings.subheading }}</div>
+      {% endif %}
         {%- if block.settings.title != blank -%}
-          <h3>{{ block.settings.title }}</h3>
+          <h3 class="{%- if block.settings.uppercase -%}uppercase{%- endif -%}">{{ block.settings.title }}</h3>
         {% endif %}
         {% if block.settings.text != blank %}
           <div class="rte-setting text-spacing">{{ block.settings.text }}</div>
@@ -128,10 +131,21 @@
             "unit": "px"
           },
           {
+            "type": "richtext",
+            "id": "subheading",
+            "label": "Subheading"
+          },
+          {
             "type": "text",
             "id": "title",
             "label": "Heading",
             "default": "Example title"
+          },
+          {
+            "type": "checkbox",
+            "id": "uppercase",
+            "label": "Title uppercase",
+            "default": true
           },
           {
             "type": "richtext",

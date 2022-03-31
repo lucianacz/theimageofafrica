@@ -1,0 +1,225 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1647447110d65abe2c": {
+      "type": "slideshow",
+      "blocks": {
+        "16474471103fc8a3ff-0": {
+          "type": "image",
+          "settings": {
+            "title": "EXPLORE THE GREATEST ECOSYSTEMS OF EAST AFRICA",
+            "title_2": "",
+            "title_size": 69,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/elephants.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16474471103fc8a3ff-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1647447183f499b37e": {
+      "type": "rich-text",
+      "blocks": {
+        "1647447183cfb718e1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "WHY TANZANIA?"
+          }
+        },
+        "1647447183cfb718e1-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Tanzania<\/strong> is noted for both the sheer number of wildlife throughout the country and for the variety on offer. There are more than <strong>four million wild animals<\/strong> in Tanzania representing <strong>430 different species<\/strong>. The country houses some 20% of Africa’s large mammal population. <strong>Zebras, giraffes, elephants, wildebeest, buffaloes, hippos, antelopes and gazelles<\/strong> are common animals, thousands of insect species and all kinds of birds. Larger predatory animals like <strong>lions, cheetahs and leopards<\/strong> are also found. <\/p><p>Once you dive deep into the fantastic environment full of natural beauty, stunning sunsets and sunrises and unexpected encounters with the residents of the world’s famous national parks of Tanzania, you will want to come back over and over again!<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "1647447183cfb718e1-0",
+        "1647447183cfb718e1-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "164744795554813ed3": {
+      "type": "text-columns",
+      "blocks": {
+        "16474479559d8b299f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/buffalo.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "SERENGETI NATIONAL PARK",
+            "uppercase": true,
+            "text": "<p>One of the last true natural wonders on planet Earth and the greatest wildlife destination in Africa, renown for its dense predator population and annual wildebeest migration. It is the finest wildlife reserve anywhere in Africa offering the liberating sense of space!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16474479559d8b299f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/ngorongoro_crater2_1291eb25-6d72-492f-835f-2befc310012e.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "NGORONGORO CRATER",
+            "uppercase": true,
+            "text": "<p>It is the largest unflooded and unbroken caldera in the world, which makes it fit in the global shortlist of natural wonders – not only due to its geological magnificence, but also because the Crater floor is quite extraordinary sanctuary for Africa’s densest large mammal population.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16474479559d8b299f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/baboon2_c91bbdd1-e362-4273-856c-a292dcb07ace.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "TARANGIRE NATIONAL PARK",
+            "uppercase": true,
+            "text": "<p>The area around Tarangire river is unambiguously the best wildlife-viewing area, especially in the dry season when many of the greater ecosystem’s resident animals congregate along the river, the only source of water for many miles around.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1ee7b2a9-7f34-4f9e-8e91-d171875a7726": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/manyara_giraffe1_eda2b7c1-ca3b-4595-a8e0-f7a8cf7a918e.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "LAKE MANYARA",
+            "uppercase": true,
+            "text": "<p>It is a perfect place to see the spectacular 400 meter high Rift Valley Escarpment. <em>The Great Rift Valley<\/em> is a long rift which runs down the eastern side of Africa and was formed about 20 to 25 million years ago when the earth’s crust teared apart.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "f8d5cfb8-0156-4c60-9bb4-db9aa17db5bd": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/lake_eyasi_sunset_palm_trees_434986be-080a-4388-83bf-2a4434066197.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "LAKE EYASI",
+            "uppercase": true,
+            "text": "<p>Lake Eyasi is a shallow salt lake on the floor of the Great Rift Valley. The area around the lake differs dramatically from the surrounding areas. Palm trees border the lake and attract colorful and prolific birdlife such as Fischer’s lovebird, flamingo, pelican and stork. The uniquely beautiful lake varies in size depending on the rains and is especially scenic from June to November when flocks of breeding pelicans and flamingos arrive.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1d1d21a0-13ab-4509-b8c1-5600875b2220": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Flamingo_in_serengeti_640dca79-bba0-4321-861d-7a374658e9b0.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "LAKE NATRON",
+            "uppercase": true,
+            "text": "<p>Located at the lowest point of the Great Rift Valley, Lake Natron presents some of the most unusual and dramatic scenery in Tanzania. This remote region at the foothills of Oldoinyo Lengai, a still active volcano, features very little wildlife but despite the extremely alkaline water the lake is nevertheless home to a fascinating ecosystem of microorganisms that attracts thousands of flamingos. Although the Lake Natron area is desolate and hot, the unique beauty of Natron is not to be missed.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16474479559d8b299f-1",
+        "16474479559d8b299f-0",
+        "16474479559d8b299f-2",
+        "1ee7b2a9-7f34-4f9e-8e91-d171875a7726",
+        "f8d5cfb8-0156-4c60-9bb4-db9aa17db5bd",
+        "1d1d21a0-13ab-4509-b8c1-5600875b2220"
+      ],
+      "settings": {
+        "title": "NATURE RESERVES",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16474472286d5ae70f": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Let us create the journey of a lifetime tailor-made for you!",
+        "text": "<p>IMAGE BY JODY MCDONALD 2022<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/JodyMacdonaldWeb4.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 550,
+        "parallax": false
+      }
+    },
+    "164744726593c1edfe": {
+      "type": "rich-text",
+      "blocks": {
+        "16474472652c8a6b18-0": {
+          "type": "heading",
+          "settings": {
+            "title": "We cover the entire region of Northern Tanzania with its remarkable world-renowned wildlife sanctuaries."
+          }
+        }
+      },
+      "block_order": [
+        "16474472652c8a6b18-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16474478293f60f51e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WILDLIFE EXPERIENCES",
+        "home_featured_products": "wildlife-experiences",
+        "per_row": 3,
+        "rows": 1,
+        "view_all": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1647447110d65abe2c",
+    "1647447183f499b37e",
+    "164744795554813ed3",
+    "16474472286d5ae70f",
+    "164744726593c1edfe",
+    "16474478293f60f51e"
+  ]
+}

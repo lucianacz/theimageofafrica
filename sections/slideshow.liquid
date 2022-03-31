@@ -1,3 +1,5 @@
+{% assign count = 0 %}
+
 <div
   data-section-id="{{ section.id }}"
   data-section-type="slideshow-section"
@@ -139,7 +141,19 @@
 
                 <div class="hero__image-wrapper{% unless hero_text %} hero__image-wrapper--no-overlay{% endunless %}">
 
-                  {%- if block.settings.image != blank -%}
+                  {% assign images = product.media %}
+                    {%- if template.name == 'product' and block.settings.show_imageproduct -%}
+                    {% if images[forloop.index0] != blank %}
+                      <img src="{{ images[forloop.index0] | img_url: 'master' }}" alt="{{ images[forloop.index0].alt }}">
+                      {% elsif images[count] != blank %}
+                      <img src="{{ images[count] | img_url: 'master' }}" alt="{{ images[forloop.index0].alt }}">
+                      {% assign count_2 = count | plus: 1 %}
+
+                      {% if images[count_2] != blank %}
+                        {% assign count = count | plus: 1 %}
+                      {% endif %}
+                    {% endif %}
+                  {%- elsif block.settings.image != blank -%}
                     {%- style -%}
                       .hero__image--{{ block.id }} {
                         object-position: {{ block.settings.focal_point }};
@@ -194,13 +208,19 @@
                   <div class="page-width">
                     <div class="hero__text-content {{ block.settings.text_align }}">
 
-                      {%- unless block.settings.title == blank -%}
+                      {%- if block.settings.title != blank -%}
                         <h2 class="h1 hero__title">
                           <div class="animation-cropper"><div class="animation-contents">
                           {{ block.settings.title | newline_to_br }}
                           </div></div>
                         </h2>
-                      {%- endunless -%}
+                      {% elsif block.settings.title_2 != blank %}
+                        <h1 class="h1 hero__title">
+                          <div class="animation-cropper"><div class="animation-contents">
+                          {{ block.settings.title_2 | newline_to_br }}
+                          </div></div>
+                        </h1>
+                      {%- endif -%}
                       {%- if block.settings.subheading or block.settings.link -%}
                         {%- unless block.settings.subheading == blank -%}
                           <div class="hero__subtitle">
@@ -367,6 +387,12 @@
             "default": "Two line\nslide title."
           },
           {
+            "type": "text",
+            "id": "title_2",
+            "label": "Heading simple",
+            "info": "If Heading is empty will show this"
+          },
+          {
             "type": "range",
             "id": "title_size",
             "label": "Heading text size",
@@ -433,6 +459,12 @@
             "type": "image_picker",
             "id": "image_mobile",
             "label": "Mobile image"
+          },
+          {
+            "type": "checkbox",
+            "id": "show_imageproduct",
+            "label": "Show Images from the product",
+            "default": false
           },
           {
             "type": "range",

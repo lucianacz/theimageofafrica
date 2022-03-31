@@ -1,0 +1,45 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+
+
+@media (max-width: 768px){
+    .instafeed-container {
+      width: 50% !important;
+      padding-top: 50% !important;
+  }
+}
+
+
+
+#shopify-section-template--15721163030784__1646279943d2bdd851 .index-section {
+  margin-top: 0;
+}
+
+#shopify-section-template--15721163030784__1646885649c2a2aa53 {
+  margin-bottom: 0;
+}
+
+@media (min-width: 590px) {
+  [data-section-type="featured-collection"] .section-header__title{
+    text-align: left;
+  }
+}
+
+.template-product .slideshow-wrapper .hero__image-wrapper img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.loading:after, .loading:before{
+  content: none;
+}
+
+.template-product .hero__title{
+  max-width: 700px;
+}

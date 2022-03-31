@@ -1,1 +1,29 @@
-{"sections":{"main":{"type":"list-collections-template","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "list-collections-template",
+      "settings": {
+        "title_enable": false,
+        "display_type": "all",
+        "sort": "alphabetical",
+        "grid": "3"
+      }
+    },
+    "1646885186b512779b": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "UPCOMING",
+        "collection1": "photography-tours",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": false,
+        "divider": false,
+        "show_price": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1646885186b512779b"
+  ]
+}

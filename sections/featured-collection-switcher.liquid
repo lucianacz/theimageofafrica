@@ -81,7 +81,7 @@
           class="grid collection-switcher__collection-grid"
           data-per-row="{{ per_row }}">
           {%- for product in collection1.products limit: product_limit -%}
-            {%- render 'product-grid-item', product: product, grid_item_width: grid_item_width, per_row: per_row -%}
+            {%- render 'product-grid-item', product: product, grid_item_width: grid_item_width, per_row: per_row, show_price: section.settings.show_price -%}
           {%- endfor -%}
         </div>
 
@@ -100,7 +100,7 @@
           class="grid collection-switcher__collection-grid"
           data-per-row="{{ per_row }}">
           {%- for product in collection2.products limit: product_limit -%}
-            {%- render 'product-grid-item', product: product, grid_item_width: grid_item_width, per_row: per_row -%}
+            {%- render 'product-grid-item', product: product, grid_item_width: grid_item_width, per_row: per_row, show_price: section.settings.show_price -%}
           {%- endfor -%}
         </div>
 
@@ -129,7 +129,9 @@
                     </div>
                     <div class="grid-product__meta">
                       <div class="grid-product__title">{{ 'home_page.onboarding.product_title' | t }}</div>
-                      <div class="grid-product__price">$29</div>
+                      {% if section.settings.show_price %}
+                        <div class="grid-product__price">$29</div>
+                      {% endif %}
                     </div>
                   </a>
                 </div>
@@ -204,6 +206,12 @@
         "id": "divider",
         "label": "Show section divider",
         "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "show_price",
+        "label": "Show price",
+        "default": true
       }
     ],
     "presets": [{

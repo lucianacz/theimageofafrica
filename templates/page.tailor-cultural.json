@@ -1,0 +1,195 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1647447110d65abe2c": {
+      "type": "slideshow",
+      "blocks": {
+        "16474471103fc8a3ff-0": {
+          "type": "image",
+          "settings": {
+            "title": "EXPLORE THE CULTURAL\nDIVERSITY OF TANZANIA",
+            "title_2": "",
+            "title_size": 69,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Maasai_child.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16474471103fc8a3ff-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1647447183f499b37e": {
+      "type": "rich-text",
+      "blocks": {
+        "1647447183cfb718e1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "WHY TANZANIA?"
+          }
+        },
+        "1647447183cfb718e1-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>Tanzania<\/strong> is one of the most <strong>culturally diverse<\/strong> countries in the world.<\/p><p>The population of Tanzania consists of more than 120 ethnic groups - from the graceful Maasai warriors, the ancient Hadzabe hunter-gatherers and the mysterious Sukuma people, to the renowned Makonde woodcarvers and Datoga blacksmiths.<\/p><p><strong>The Image of Africa<\/strong> team has been working on developing close connections with the indigenous tribes to be able to open a path for conscious cultural tourism in the remote areas of Tanzania. Our goal is to introduce various cultures, traditions and customs in the most authentic way and encourage the local communities to actively participate in preserving their unique cultural heritage.<\/p><p>We take our guests to the tribal ceremonies, festivities, rituals and other traditional events so they are able to experience the cultures from within.<\/p><p>Our <strong>cultural routes<\/strong> are truly unique and every single trip is one of a kind and usually beyond expectations.<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "1647447183cfb718e1-0",
+        "1647447183cfb718e1-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "164744795554813ed3": {
+      "type": "text-columns",
+      "blocks": {
+        "16474479559d8b299f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Hadza_hunting.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "HADZABE",
+            "uppercase": true,
+            "text": "<p>Genetically, Hadzabe people are not closely related to any other tribes. They are hunter-gatherers and survive by hunting their food with hand-made bows and arrows and foraging for wild honey and edible plants such as tubers, berries and baobab fruits. Up to this day, Hadzabe people remain an important study focus for anthropologists because they represent a modern link to ways of human existence and survival that were abandoned by humanity. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16474479559d8b299f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Traditional_fire_making_maasai.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "MAASAI",
+            "uppercase": true,
+            "text": "<p>The Maasai are a pastoralist nomadic people who arrived in Tanzania from South Sudan and now inhabit the African Great Lakes region. Throughout the year, they move from one place to another to find land where their animals can graze. They subsist entirely on the meat, blood, and milk of their herds. They are one of the very few tribes that have retained most of their lifestyle and traditions.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16474479559d8b299f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/datoga_woman_6d9532fa-fd53-4d20-b8bb-93763d16f018.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "DATOGA",
+            "uppercase": true,
+            "text": "<p>The Datoga is a relatively unknown tribe for most of those who visit Tanzania. They live in the vicinity of Lake Eyasi in the Rift Valley. They are traditional pastoralists who became agriculturalists farming in the highlands of Tanzania. Datoga live within a small circle of contacts with neighboring tribes and therefore have managed to preserve their culture and traditions to the maximum.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1ee7b2a9-7f34-4f9e-8e91-d171875a7726": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Iraqw_men_0a70ac6b-9840-4c90-a1c2-4661778f1788.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "IRAQW",
+            "uppercase": true,
+            "text": "<p>The Iraqw are an East African ethnic group that speak a Cushitic language and live in the Great Lakes area along the East African Rift Valley wall in the Arusha and Manyara regions. The Iraqw are pastoralists and agriculturalists with a very rich and interesting culture. They live in permanent settlements consisting of mud huts made of mud and thatched with straw, and they keep the cattle inside their houses. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16474479559d8b299f-1",
+        "16474479559d8b299f-0",
+        "16474479559d8b299f-2",
+        "1ee7b2a9-7f34-4f9e-8e91-d171875a7726"
+      ],
+      "settings": {
+        "title": "ETHNIC GROUPS",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16474472286d5ae70f": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Let us create the journey of a lifetime tailor-made for you!",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Dancing_in_maasai_village.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 550,
+        "parallax": false
+      }
+    },
+    "164744726593c1edfe": {
+      "type": "rich-text",
+      "blocks": {
+        "16474472652c8a6b18-0": {
+          "type": "heading",
+          "settings": {
+            "title": "This is the life changing experience that will stay with you forever!"
+          }
+        }
+      },
+      "block_order": [
+        "16474472652c8a6b18-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16474478293f60f51e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "CULTURAL EXPERIENCES",
+        "home_featured_products": "cultural-experiences",
+        "per_row": 3,
+        "rows": 1,
+        "view_all": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1647447110d65abe2c",
+    "1647447183f499b37e",
+    "164744795554813ed3",
+    "16474472286d5ae70f",
+    "164744726593c1edfe",
+    "16474478293f60f51e"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1647447110d65abe2c": {
+      "type": "slideshow",
+      "blocks": {
+        "16474471103fc8a3ff-0": {
+          "type": "image",
+          "settings": {
+            "title": "KILIMANJARO: CLIMB THE GIANT VOLCANO",
+            "title_2": "",
+            "title_size": 69,
+            "subheading": "THE HIGHEST MOUNTAIN IN AFRICA",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/fff.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16474471103fc8a3ff-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1647447183f499b37e": {
+      "type": "rich-text",
+      "blocks": {
+        "1647447183cfb718e1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "WHY CLIMB IT?"
+          }
+        },
+        "1647447183cfb718e1-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Kilimanjaro is one of the <strong>world’s most iconic natural wonders<\/strong>. Roughly 50,000 trekkers every year try to reach the summit of the<strong> highest mountain in Africa<\/strong>. The summit success rate heavily depends upon what route is climbed. Routes vary considerably in terms of acclimatization profile and duration of the climb. Our goal is to help you choose the right route and make your climb as comfortable as possible. <\/p><p>During the climb, you may come across a multitude of birds, you may see primates such as blue monkeys, colobus monkeys and olive baboons, and you may even come across elephants or leopards! <\/p><p>There are <strong>six route<\/strong>s to the top of Mount Kilimanjaro in the north, west and south, and they all have their own pros and cons. Before you choose the best Kilimanjaro route you need more information and we are here to provide you with the details about each route with their differences from one to the other. <\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "1647447183cfb718e1-0",
+        "1647447183cfb718e1-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16474472286d5ae70f": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "MACHAME ROUTE SCENERY",
+        "text": "<p>The trekking experience is unmatched to any other. You get to enjoy the extremely varied terrain all the way up and pass through five different climate zones: rainforest, grasslands, moorland, alpine desert, and the arctic summit.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/web29-scaled.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 550,
+        "parallax": false
+      }
+    },
+    "164744726593c1edfe": {
+      "type": "rich-text",
+      "blocks": {
+        "6c5d341a-5088-4ee6-9b02-e28f50a2e9b6": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The route also takes you through fabulous natural features such as Lava Tower – a volcanic rock tower that was formed by the volcanic activity on the mountain many years ago, and Shira Plateau –  a 500,000-year-old volcanic caldera that is now a World Heritage Site!<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "6c5d341a-5088-4ee6-9b02-e28f50a2e9b6"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1647450207b59c5877": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/web25.jpg",
+        "image_width": 560,
+        "subtitle": "",
+        "title": "IS IT HARD TO CLIMB THE MACHAME ROUTE?",
+        "text": "<p>Let us put it simply, with the right and qualified Kilimanjaro team of experts and supportive mountain crew anyone should be able to climb Kilimanjaro via the Machame route, whether you are a an experienced hiker or a first-time trekker, you can reach the summit!<\/p><p>The Machame route can be completed in a minimum of six days. However, for the first-time hikers we would recommend to extend the trekking by one day taking an extra day to allow yourself to acclimatize. There is no rush, so it’s best if you take your time to enjoy the fantastic scenery and let your body move at a slower pace.<\/p><p><\/p><p>Machame route is more physically demanding but it has the best acclimatization profile because it includes the opportunities to climb high and then go down low, which is important in helping the body to adjust to the increased elevation. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1647450454619061d7": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "164745045370cd4fc9-1": {
+          "type": "separator",
+          "settings": {}
+        },
+        "164745045370cd4fc9-4": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "97a5bcfe-1e3a-465b-ab62-26e05f6de4ff": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "164745045370cd4fc9-1",
+        "164745045370cd4fc9-4",
+        "97a5bcfe-1e3a-465b-ab62-26e05f6de4ff"
+      ],
+      "settings": {
+        "featured_product": "off-the-beaten-path-wildlife-photography-tour-with-chase-teron",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "1647450648073d701f": {
+      "type": "rich-text",
+      "blocks": {
+        "164745064802e86768-0": {
+          "type": "heading",
+          "settings": {
+            "title": "PUSH YOUR LIMITS AND FIND YOUR INNER STRENGTH BY CLIMBING AFRICA’S HIGHEST MOUNTAIN!"
+          }
+        }
+      },
+      "block_order": [
+        "164745064802e86768-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1647447110d65abe2c",
+    "1647447183f499b37e",
+    "16474472286d5ae70f",
+    "164744726593c1edfe",
+    "1647450207b59c5877",
+    "1647450454619061d7",
+    "1647450648073d701f"
+  ]
+}

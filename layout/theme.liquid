@@ -27,6 +27,8 @@
 
   {%- render 'font-face' -%}
   {{ 'theme.css' | asset_url | stylesheet_tag }}
+  {{ 'custom.css' | asset_url | stylesheet_tag }}
+
   {%- render 'css-variables' -%}
 
   <script>

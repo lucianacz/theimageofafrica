@@ -1,1 +1,344 @@
-{"sections":{"main":{"type":"main-product","blocks":{"price":{"type":"price","settings":{}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{}},"inventory_status":{"type":"inventory_status","settings":{}},"share":{"type":"share","settings":{}},"sales_point":{"type":"sales_point","settings":{}},"tab":{"type":"tab","settings":{}},"text":{"type":"text","settings":{}},"separator":{"type":"separator","settings":{}},"contact":{"type":"contact","settings":{}}},"block_order":["price","separator","variant_picker","sales_point","inventory_status","buy_buttons","description","tab","contact","share"],"settings":{}},"sub":{"type":"product-full-width","disabled":true,"settings":{}},"product-recommendations":{"type":"product-recommendations","settings":{}},"collection-return":{"type":"collection-return","settings":{}},"background-image-text":{"type":"background-image-text","settings":{"parallax":false}},"text-and-image":{"type":"text-and-image","settings":{}},"text-and-image2":{"type":"text-and-image","settings":{"layout":"left"}},"testimonials":{"type":"testimonials","blocks":{"testimonials-0":{"type":"testimonial","settings":{}},"testimonials-1":{"type":"testimonial","settings":{}},"testimonials-2":{"type":"testimonial","settings":{}}},"block_order":["testimonials-0","testimonials-1","testimonials-2"],"settings":{}}},"order":["main","sub","background-image-text","text-and-image","text-and-image2","testimonials","product-recommendations","collection-return"]}
+{
+  "sections": {
+    "1647914014d4ef7287": {
+      "type": "slideshow",
+      "blocks": {
+        "16479140149390e883-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_2": "{{ product.title }}",
+            "title_size": 72,
+            "subheading": "BY {{ product.vendor }}",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Jody_MacDonald_and_Hadza_kids.png",
+            "show_imageproduct": true,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "4d22e412-3a0e-4eae-b536-85d9e523633b": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_2": "{{ product.title }}",
+            "title_size": 72,
+            "subheading": "BY {{ product.vendor }}",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Hadzabe_dancing.jpg",
+            "show_imageproduct": true,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "9cad19bc-c284-4ee8-902b-62eb984dbed7": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_2": "{{ product.title }}",
+            "title_size": 72,
+            "subheading": "BY {{ product.vendor }}",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "show_imageproduct": true,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "bf97aa32-3bfe-4340-a795-f35ed6be1aec": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_2": "{{ product.title }}",
+            "title_size": 72,
+            "subheading": "BY {{ product.vendor }}",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "show_imageproduct": true,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16479140149390e883-1",
+        "4d22e412-3a0e-4eae-b536-85d9e523633b",
+        "9cad19bc-c284-4ee8-902b-62eb984dbed7",
+        "bf97aa32-3bfe-4340-a795-f35ed6be1aec"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "disabled": true,
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "disabled": true,
+          "settings": {
+            "icon": "leaf",
+            "text": "Wildlife Experience"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "sales_point",
+        "buy_buttons",
+        "description",
+        "contact"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": false,
+        "thumbnail_position": "below",
+        "thumbnail_arrows": false,
+        "enable_video_looping": false,
+        "product_video_style": "muted"
+      }
+    },
+    "164791445686716d03": {
+      "type": "text-columns",
+      "blocks": {
+        "16479144568a8beaeb-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/CALENDAR.jpg",
+            "image_width": 60,
+            "subheading": "<p>TOUR DATES<\/p>",
+            "title": "{{ product.metafields.tia.date.value }}",
+            "uppercase": true,
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16479144568a8beaeb-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/exploration-3.png",
+            "image_width": 60,
+            "subheading": "<p>EXPERIENCE<\/p>",
+            "title": "{{ product.metafields.tia.experience.value }}",
+            "uppercase": true,
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16479144568a8beaeb-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/JEEP.jpg",
+            "image_width": 60,
+            "subheading": "<p>GROUP SIZE<\/p>",
+            "title": "MAX {{ product.metafields.tia.group.value }}",
+            "uppercase": true,
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16479144568a8beaeb-1",
+        "16479144568a8beaeb-2",
+        "16479144568a8beaeb-0"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1647914843f19cab52": {
+      "type": "rich-text",
+      "blocks": {
+        "1647914843ec46c692-0": {
+          "type": "heading",
+          "settings": {
+            "title": "TRIP OVERVIEW"
+          }
+        },
+        "1647914843ec46c692-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "",
+            "product_description": true
+          }
+        },
+        "1f2712b9-72f5-4a2e-985c-0a7f7d5cd202": {
+          "type": "button",
+          "settings": {
+            "link": "#Itinerary",
+            "link_text": "RECEIVE THE FULL ITINERARY"
+          }
+        }
+      },
+      "block_order": [
+        "1647914843ec46c692-0",
+        "1647914843ec46c692-1",
+        "1f2712b9-72f5-4a2e-985c-0a7f7d5cd202"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "1647915072c86409a6": {
+      "type": "rich-text",
+      "blocks": {
+        "1647915072656d9b6d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><em>We invite you to enjoy this unique route outside of the conventional tourist path. This journey will be led by an acclaimed journalist and traveler Fernando Duclos. With his extensive experience of traveling unconventional routes, he will accompany you on this adventure sharing his knowledge and expertise.<\/em><\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "1647915072656d9b6d-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16479149333323d88e": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "{{ product.metafields.tia.tour_leader.value }}",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "{{ product.vendor }}",
+        "text": "<p>{{ product.metafields.tia.biography | metafield_tag }}<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1647915074966635a2": {
+      "type": "contact-form",
+      "settings": {
+        "title": "DO YOU WANT MORE INFORMATION?",
+        "text": "",
+        "show_phone": true,
+        "show_country": true,
+        "narrow_column": true
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "blocks": {
+        "8f91555a-af22-4e61-98b0-e000b789d25a": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "43773656-1b39-4e12-a5bc-742bf2f84e82": {
+          "type": "reviews",
+          "settings": {}
+        },
+        "0ba096b2-b24a-47fa-839d-108d1d545d91": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "8f91555a-af22-4e61-98b0-e000b789d25a",
+        "43773656-1b39-4e12-a5bc-742bf2f84e82",
+        "0ba096b2-b24a-47fa-839d-108d1d545d91"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    }
+  },
+  "order": [
+    "1647914014d4ef7287",
+    "main",
+    "164791445686716d03",
+    "1647914843f19cab52",
+    "1647915072c86409a6",
+    "16479149333323d88e",
+    "1647915074966635a2",
+    "collection-return",
+    "sub",
+    "product-recommendations"
+  ]
+}

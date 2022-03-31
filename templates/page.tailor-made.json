@@ -1,0 +1,56 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "164745180399dd7451": {
+      "type": "slideshow",
+      "blocks": {
+        "1647451802fac10d55-0": {
+          "type": "image",
+          "settings": {
+            "title": "Let us create the journey of a lifetime tailor-made for you!",
+            "title_2": "",
+            "title_size": 55,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/2A1A7403.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 12,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1647451802fac10d55-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16474517836a91aa57": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "show_country": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "164745180399dd7451",
+    "16474517836a91aa57"
+  ]
+}

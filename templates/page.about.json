@@ -1,1 +1,122 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"link_text":""}}},"block_order":["slideshow-0"],"settings":{}},"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{}},"text":{"type":"text","settings":{}}},"block_order":["heading","text"],"settings":{}},"map":{"type":"map","settings":{}},"text-columns":{"type":"text-columns","blocks":{"column1":{"type":"text_block","settings":{}},"column2":{"type":"text_block","settings":{}},"column3":{"type":"text_block","settings":{}}},"block_order":["column1","column2","column3"],"settings":{}},"featured-collection":{"type":"featured-collection","settings":{}},"form":{"type":"contact-form","settings":{}}},"order":["main","slideshow","rich-text","text-columns","map","featured-collection","form"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "WHO WE ARE?",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "OUR STORY BEHIND",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/web23.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "This company is a result of dreams and hard work."
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Godfrey Barongo - co-founder and product manager of the company - started his path 15 years ago working as a cook, driver and a safari guide. After some time of intense work he managed to buy a car with the idea of founding his own travel company, <strong>a company that would stand out in the market<\/strong>. The time came to share all the experience he had gained. These goals started to come to life when he met Antonina - the other co-founder and CEO of the company. Antonina is a travel lover and a photographer with over 10 years of experience working on commissioned assignments from various publications. Her passion and work lead her to discover breath-taking places and to live together with some of the most remote communities in Tanzania. <strong>The Image of Africa<\/strong> started when these two people met in Tanzania and decided that their journey together was about to begin.<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1646883852e4195467": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Team of dedicated professionals",
+        "text": "<p>We are a local company based in Tanzania, but our team consists of people from three different continents, there are no boundaries and we treat everyone as equals. Our guides are qualified expert guides born and raised in Tanzania with experience ranging from 15 to 30 years! <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Team_82173023-0029-464a-86aa-d3b3fc29bc0b.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "parallax": false
+      }
+    },
+    "16468841158f2fa4be": {
+      "type": "rich-text",
+      "blocks": {
+        "1646884114c0cde5ce-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We are focused on showing you the world where old traditions and customs still exist so that you are able to feel a deeper connection with nature. We believe that this profound experience can change the way we see the world. We want to encourage you to choose genuine travel experiences with sustainable practices of high quality standards and we are here to offer them to you!<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "1646884114c0cde5ce-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow",
+    "rich-text",
+    "1646883852e4195467",
+    "16468841158f2fa4be",
+    "form"
+  ]
+}

@@ -1,1 +1,26 @@
-{"sections":{"main":{"type":"main-404","settings":{}},"featured-collection":{"type":"featured-collection","settings":{"title":"Popular picks"}}},"order":["main","featured-collection"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "settings": {}
+    },
+    "164688546981fb8d17": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "This company is a result of dreams and hard work.",
+        "text": "",
+        "button_label": "READ OUR STORY",
+        "button_link": "shopify:\/\/pages\/about-us",
+        "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/0395\/9296\/files\/HP.mp4?v=1646882704",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    }
+  },
+  "order": [
+    "main",
+    "164688546981fb8d17"
+  ]
+}

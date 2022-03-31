@@ -1,0 +1,109 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1648175412797b41e5": {
+      "type": "hero-video",
+      "settings": {
+        "title": "GUEST EXPERIENCE",
+        "title_size": 55,
+        "subheading": "THE IMAGE OF AFRICA REVIEWS",
+        "link_text": "",
+        "link": "",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0631\/0395\/9296\/files\/Jody_Cultural_edited.mp4?v=1648220100",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "auto"
+      }
+    },
+    "1648483824ea200516": {
+      "type": "testimonials",
+      "blocks": {
+        "16484838245c045f69-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>This trip was an amazing and authentic way to experience Tanzania. Antonina and her team provided immersive cultural experiences so far off the beaten path, it sometimes felt like a dream. We camped alongside remote tribes that were warm and welcoming, photographed spectacular Serengeti landscapes, walked with Giraffes, watched Cheetahs feed their cubs, hiked the Ngorogoro Crater, and flew over the Lengai Volcano in Lake Natron. The entire team was very accommodating and responsive to any requests we had and our guide Chotara was a gem - one of the best trip guides I’ve ever had!<\/p>",
+            "author": "Taber",
+            "author_info": "Delray Beach, Florida"
+          }
+        },
+        "16484838245c045f69-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Truly an amazing experience. Antonina was responsive from the very beginning. Providing information for some days in Zanzibar as well as ensuring that I would be met and accommodated at all points of transfer. And it was somewhat miraculous spending quality time off the beaten path with local cultures not usually accessed by tourists. The lodging that was arranged enhanced the experience of being in Africa and of course the Ngorongoro crater and Serengeti with their magnificent landscapes and wildlife are not to be missed. Our guide was beyond experienced, kind, capable and accommodating. I’m going back!<\/p>",
+            "author": "Alex",
+            "author_info": "Sebastopol, California"
+          }
+        },
+        "16484838245c045f69-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Had an amazing time on this safari. Our guide Chotara was very knowledgeable and excited to answer all of our questions. We saw every animal imaginable. The trip of a lifetime.<\/p>",
+            "author": "Halie",
+            "author_info": ""
+          }
+        },
+        "16484838245c045f69-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I spent 4 weeks travelling with The Image of Africa, all around Tanzania and everything was spectacular. Camping in the middle of Serengeti or visitng remote tribes, hiking up craters or spotting cheetahs in action, all one epic adventure.<br\/><br\/>Also, they helped me organize my expedition to the summit of Kilimanjaro, one of the world 7 summits. We made it to the top and had so much fun with my crew.<br\/><br\/>Asante Sana!<\/p>",
+            "author": "Didier C",
+            "author_info": "Tegucigalpa, Honduras"
+          }
+        },
+        "16484838245c045f69-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I went on this cultural and photographic tour and it was amazing. You really can not put into words what its like to spend time with other cultures that are so different from your own never mind ones that most people will never see or even hear about. The wildlife as well is not like anything you will ever see unless you live in Africa (and going to the zoo does not count). This is how I felt the entire trip. Is there any way to convey what you are seeing and doing to others who are not there? The answer is simply no not even a chance. The best you can do is try and we will with the pictures we took and the stories we shared with the new people we met. The only thing I can say is if you have the chance GO!!! The Image of Africa set up an amazing itinerary that is unlike any other you are are likely to find in this part of Africa. We saw everything from local villagers and their homes to open landscapes of the Serengetti to rainforest and everything in between. Many thanks to The Image of Africa it was one for a lifetime.<\/p>",
+            "author": "Joshua Harde",
+            "author_info": "United States"
+          }
+        }
+      },
+      "block_order": [
+        "16484838245c045f69-0",
+        "16484838245c045f69-1",
+        "16484838245c045f69-2",
+        "16484838245c045f69-3",
+        "16484838245c045f69-4"
+      ],
+      "settings": {
+        "title": "",
+        "round_images": true,
+        "color_background": "#ac6a56",
+        "color_text": "#000000"
+      }
+    },
+    "1648175564e507db05": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.jpg",
+        "image_width": 340,
+        "subtitle": "",
+        "title": "THANKS FOR TRUSTING US!",
+        "text": "<p>Hope to see you soon!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1648175412797b41e5",
+    "1648483824ea200516",
+    "1648175564e507db05"
+  ]
+}
