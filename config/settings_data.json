@@ -98,7 +98,7 @@
           "logo-inverted": "shopify:\/\/shop_images\/Logo2.png",
           "desktop_logo_width": 220,
           "mobile_logo_width": 200,
-          "main_menu_link_list": "main-menu",
+          "main_menu_link_list": "new-web",
           "main_menu_alignment": "left",
           "show_cart": false,
           "header_sticky": true,
@@ -198,7 +198,9 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Classic": {
@@ -305,7 +307,8 @@
             "1494292487693",
             "1494292481350"
           ],
-          "settings": {}
+          "settings": {
+          }
         }
       }
     },
@@ -412,7 +415,8 @@
             "1494292485313",
             "1494292487693"
           ],
-          "settings": {}
+          "settings": {
+          }
         }
       }
     },
@@ -521,7 +525,8 @@
             "1494292485313",
             "1494292487693"
           ],
-          "settings": {}
+          "settings": {
+          }
         }
       }
     }
