@@ -1,12 +1,204 @@
 {
   "sections": {
+    "c9220789-97af-47c6-b511-e6b968ebf01c": {
+      "type": "fading-images",
+      "blocks": {
+        "template--16657141924096__c9220789-97af-47c6-b511-e6b968ebf01c-1668427587e953a2ca-0": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Beautifully animated",
+            "slide_title2": "titles and images"
+          }
+        },
+        "template--16657141924096__c9220789-97af-47c6-b511-e6b968ebf01c-1668427587e953a2ca-1": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Use this section",
+            "slide_title2": "to impress customers"
+          }
+        },
+        "template--16657141924096__c9220789-97af-47c6-b511-e6b968ebf01c-1668427587e953a2ca-2": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "And highlight",
+            "slide_title2": "important details"
+          }
+        }
+      },
+      "block_order": [
+        "template--16657141924096__c9220789-97af-47c6-b511-e6b968ebf01c-1668427587e953a2ca-0",
+        "template--16657141924096__c9220789-97af-47c6-b511-e6b968ebf01c-1668427587e953a2ca-1",
+        "template--16657141924096__c9220789-97af-47c6-b511-e6b968ebf01c-1668427587e953a2ca-2"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "d023be8e-8222-4514-8c99-9ffe4bdd40f3": {
+      "type": "text-and-image",
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "49a11a84-a179-4211-b854-fc10bde7bd36": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16657141924096__49a11a84-a179-4211-b854-fc10bde7bd36-16684276456967bfcc-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "subheading": "",
+            "title": "Example title",
+            "uppercase": true,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--16657141924096__49a11a84-a179-4211-b854-fc10bde7bd36-16684276456967bfcc-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "subheading": "",
+            "title": "Example title",
+            "uppercase": true,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--16657141924096__49a11a84-a179-4211-b854-fc10bde7bd36-16684276456967bfcc-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "subheading": "",
+            "title": "Example title",
+            "uppercase": true,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16657141924096__49a11a84-a179-4211-b854-fc10bde7bd36-16684276456967bfcc-0",
+        "template--16657141924096__49a11a84-a179-4211-b854-fc10bde7bd36-16684276456967bfcc-1",
+        "template--16657141924096__49a11a84-a179-4211-b854-fc10bde7bd36-16684276456967bfcc-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "9d0fbe7b-32bc-41ef-9760-da71dc463122": {
+      "type": "text-and-image",
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "fd8a15e9-db01-4f60-9158-56bc5fa31e99": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16657141924096__fd8a15e9-db01-4f60-9158-56bc5fa31e99-16684276456967bfcc-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "subheading": "",
+            "title": "Example title",
+            "uppercase": true,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--16657141924096__fd8a15e9-db01-4f60-9158-56bc5fa31e99-16684276456967bfcc-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "subheading": "",
+            "title": "Example title",
+            "uppercase": true,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--16657141924096__fd8a15e9-db01-4f60-9158-56bc5fa31e99-16684276456967bfcc-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "subheading": "",
+            "title": "Example title",
+            "uppercase": true,
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16657141924096__fd8a15e9-db01-4f60-9158-56bc5fa31e99-16684276456967bfcc-0",
+        "template--16657141924096__fd8a15e9-db01-4f60-9158-56bc5fa31e99-16684276456967bfcc-1",
+        "template--16657141924096__fd8a15e9-db01-4f60-9158-56bc5fa31e99-16684276456967bfcc-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
       }
     }
   },
   "order": [
-    "main"
+    "c9220789-97af-47c6-b511-e6b968ebf01c",
+    "main",
+    "d023be8e-8222-4514-8c99-9ffe4bdd40f3",
+    "49a11a84-a179-4211-b854-fc10bde7bd36",
+    "9d0fbe7b-32bc-41ef-9760-da71dc463122",
+    "fd8a15e9-db01-4f60-9158-56bc5fa31e99"
   ]
 }
