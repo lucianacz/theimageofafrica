@@ -3,7 +3,8 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "slideshow": {
       "type": "slideshow",

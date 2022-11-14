@@ -266,7 +266,8 @@
         },
         "43773656-1b39-4e12-a5bc-742bf2f84e82": {
           "type": "reviews",
-          "settings": {}
+          "settings": {
+          }
         },
         "0ba096b2-b24a-47fa-839d-108d1d545d91": {
           "type": "tab",
@@ -336,7 +337,8 @@
     },
     "collection-return": {
       "type": "collection-return",
-      "settings": {}
+      "settings": {
+      }
     },
     "product-recommendations": {
       "type": "product-recommendations",

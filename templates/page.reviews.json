@@ -3,7 +3,8 @@
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {}
+      "settings": {
+      }
     },
     "1648175412797b41e5": {
       "type": "hero-video",
