@@ -1,12 +1,114 @@
 {
   "sections": {
+    "21dc4f5f-e624-4022-b0a1-bb7c39f6509e": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16657127670016__21dc4f5f-e624-4022-b0a1-bb7c39f6509e-166842693179dbd7d2-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16657127670016__21dc4f5f-e624-4022-b0a1-bb7c39f6509e-166842693179dbd7d2-1": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16657127670016__21dc4f5f-e624-4022-b0a1-bb7c39f6509e-166842693179dbd7d2-0",
+        "template--16657127670016__21dc4f5f-e624-4022-b0a1-bb7c39f6509e-166842693179dbd7d2-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "9bdfe1f3-7b8d-496e-aea2-f83b6383ec0c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16657127670016__9bdfe1f3-7b8d-496e-aea2-f83b6383ec0c-1668426931dfce30e2-0": {
+          "type": "heading",
+          "settings": {
+            "title": "What is an expedition trip?"
+          }
+        },
+        "template--16657127670016__9bdfe1f3-7b8d-496e-aea2-f83b6383ec0c-1668426931dfce30e2-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16657127670016__9bdfe1f3-7b8d-496e-aea2-f83b6383ec0c-1668426931dfce30e2-0",
+        "template--16657127670016__9bdfe1f3-7b8d-496e-aea2-f83b6383ec0c-1668426931dfce30e2-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "57c823ea-2ca5-4403-bd7d-dc7feaf867ae": {
+      "type": "map",
+      "settings": {
+        "map_title": "Explore by region",
+        "address": "",
+        "map_address": "",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    },
+    "194e203f-c0d0-4a4a-bca3-bdc6628dc6ac": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Upcoming Expeditions",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
       }
     }
   },
   "order": [
-    "main"
+    "21dc4f5f-e624-4022-b0a1-bb7c39f6509e",
+    "main",
+    "9bdfe1f3-7b8d-496e-aea2-f83b6383ec0c",
+    "57c823ea-2ca5-4403-bd7d-dc7feaf867ae",
+    "194e203f-c0d0-4a4a-bca3-bdc6628dc6ac"
   ]
 }
