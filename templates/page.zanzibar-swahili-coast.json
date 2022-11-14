@@ -1,12 +1,89 @@
 {
   "sections": {
+    "97fc10a0-f88c-4a9e-ae0c-a925bf690901": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16657141825792__97fc10a0-f88c-4a9e-ae0c-a925bf690901-16684274628eac77b5-0": {
+          "type": "image",
+          "settings": {
+            "title": "Endless\npossibilities.",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "template--16657141825792__97fc10a0-f88c-4a9e-ae0c-a925bf690901-16684274628eac77b5-1": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16657141825792__97fc10a0-f88c-4a9e-ae0c-a925bf690901-16684274628eac77b5-0",
+        "template--16657141825792__97fc10a0-f88c-4a9e-ae0c-a925bf690901-16684274628eac77b5-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
       }
+    },
+    "131b3ccf-3781-4789-b4e9-f6f275b562c6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16657141825792__131b3ccf-3781-4789-b4e9-f6f275b562c6-1668427463aa4a8287-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "template--16657141825792__131b3ccf-3781-4789-b4e9-f6f275b562c6-1668427463aa4a8287-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16657141825792__131b3ccf-3781-4789-b4e9-f6f275b562c6-1668427463aa4a8287-0",
+        "template--16657141825792__131b3ccf-3781-4789-b4e9-f6f275b562c6-1668427463aa4a8287-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "97fc10a0-f88c-4a9e-ae0c-a925bf690901",
+    "main",
+    "131b3ccf-3781-4789-b4e9-f6f275b562c6"
   ]
 }
