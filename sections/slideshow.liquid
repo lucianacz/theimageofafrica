@@ -121,7 +121,7 @@
               {%- liquid
                 assign hero_text = false
                 assign link_slide = false
-                if block.settings.title != blank or block.settings.subheading != blank or block.settings.link_text != blank
+                if block.settings.title != blank or block.settings.title_2 != blank or block.settings.subheading != blank or block.settings.link_text != blank
                   assign hero_text = true
                 endif
                 if block.settings.link_text == blank and block.settings.link != blank

@@ -43,3 +43,130 @@ html {
 .template-product .hero__title{
   max-width: 700px;
 }
+
+.text-columns-subheading p{
+  margin-bottom: 10px;
+}
+
+.tab {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.tab button {
+  cursor: pointer;
+  padding: 14px 16px;
+  margin: 5px;
+}
+
+.tab button:hover {
+  border: 1px solid;
+}
+
+.tab button.active {
+  border: 1px solid;
+}
+
+.tabcontent {
+  display: none;
+}
+
+.table-prices{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.tabcontent th{
+  min-width: 130px
+}
+
+.price-variant {
+  min-height: 100px;
+  background: #ececec;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 49%;
+}
+
+.price-variant h5 {
+  margin-bottom: 0px;
+}
+
+@media (min-width: 768px) {
+  .tabcontent th{
+    width: calc(100% /6);
+  }
+}
+
+
+.accomodation{
+  margin: 40px 0;
+}
+
+.accomodation .accomodation--media{
+  padding: 10px;
+}
+
+.accomodation .accomodation--media img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+
+
+.one-price{
+  justify-content: center;
+  display: flex;
+}
+
+/*Custom arrow slick */
+.custom-arrow {
+  width: 100%;
+  height: 40px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  top: 50%;
+  width: 40px;
+  z-index: 90;
+  cursor: pointer;
+  box-shadow: 0 5px 5px #0000001a;
+  border-radius: 50%;
+}
+
+.custom-arrow.prev-custom-arrow {
+  right: inherit;
+  transform: translateY(-60%);
+  left: -10px;
+  background: url(https://cdn.shopify.com/s/files/1/0618/7116/1562/files/arrow.svg?v=1650470539);
+}
+
+
+.custom-arrow.next-custom-arrow {
+  background: url(https://cdn.shopify.com/s/files/1/0618/7116/1562/files/arrow-2.svg?v=1650470851);
+  right: -10px;
+  left: inherit;
+  transform: translateY(-60%);
+}
+
+.slick-disabled{
+  display: none !important;
+}
+
+@media (max-width: 990px) {
+  .custom-arrow {
+    width: 30px;
+    height: 30px;
+  }
+}
+

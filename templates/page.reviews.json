@@ -36,7 +36,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Truly an amazing experience. Antonina was responsive from the very beginning. Providing information for some days in Zanzibar as well as ensuring that I would be met and accommodated at all points of transfer. And it was somewhat miraculous spending quality time off the beaten path with local cultures not usually accessed by tourists. The lodging that was arranged enhanced the experience of being in Africa and of course the Ngorongoro crater and Serengeti with their magnificent landscapes and wildlife are not to be missed. Our guide was beyond experienced, kind, capable and accommodating. I’m going back!<\/p>",
+            "testimonial": "<p>Truly an amazing experience. Antonina was responsive from the very beginning. Our guide was beyond experienced, kind, capable and accommodating. I’m going back!<\/p>",
             "author": "Alex",
             "author_info": "Sebastopol, California"
           }
@@ -67,6 +67,24 @@
             "author": "Joshua Harde",
             "author_info": "United States"
           }
+        },
+        "abac3ed7-e526-4b92-8b13-3e261baad8b3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Over a long weekend, I had the opportunity to see a traditional Sukuma wedding.<br\/>This very remote tribe with discreet facial tattoos lives deep in the bush so the travel time to the final destination was long, but it was worth it.<br\/>We had so many special moments, my favourite being the dances. The traditional clothing was really fascinating and the choreography totally mesmerising.<br\/>It was a unique experience that I will definitely never forget.<br\/>A big thank you to Antonina for all the preparations and Momoya for his great translations, explanations and hospitality !<\/p>",
+            "author": "Pineau Marie",
+            "author_info": "France"
+          }
+        },
+        "47ec63ff-93dc-438c-aee3-5af626c9e9ce": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Nous avons adoré notre séjour en tanzanie organisé par theimageofafrica.<br\/>Un séjour personnalisé sur nos envies, notre budget, réalisé avec beaucoup de professionnalisme, de gentillesse, d'ecoute pour nous satisfaire (et ce quelques soit les imprévus).<br\/>Nous avons pu juste nous laisser porter et profiter de notre voyage.<br\/>Je recommande vivement cette agence pour un séjour privé personnalisé.<\/p>",
+            "author": "Stephanie Laclau",
+            "author_info": "France"
+          }
         }
       },
       "block_order": [
@@ -74,17 +92,20 @@
         "16484838245c045f69-1",
         "16484838245c045f69-2",
         "16484838245c045f69-3",
-        "16484838245c045f69-4"
+        "16484838245c045f69-4",
+        "abac3ed7-e526-4b92-8b13-3e261baad8b3",
+        "47ec63ff-93dc-438c-aee3-5af626c9e9ce"
       ],
       "settings": {
         "title": "",
         "round_images": true,
-        "color_background": "#ac6a56",
+        "color_background": "#fcfcfc",
         "color_text": "#000000"
       }
     },
     "1648175564e507db05": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/1.jpg",
         "image_width": 340,
@@ -98,12 +119,28 @@
         "layout": "right",
         "divider": false
       }
+    },
+    "1650403288ed306309": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "THANKS FOR TRUSTING US!",
+        "text": "<p>Hope to see you soon!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/1.jpg",
+        "focal_point": "bottom",
+        "layout": "left",
+        "height": 650,
+        "parallax": false
+      }
     }
   },
   "order": [
     "main",
     "1648175412797b41e5",
     "1648483824ea200516",
-    "1648175564e507db05"
+    "1648175564e507db05",
+    "1650403288ed306309"
   ]
 }

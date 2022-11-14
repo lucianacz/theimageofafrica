@@ -11,22 +11,39 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "title": "WHO WE ARE?",
+            "title": "",
             "title_2": "",
             "title_size": 80,
-            "subheading": "OUR STORY BEHIND",
+            "subheading": "",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/web23.jpg",
+            "image": "shopify:\/\/shop_images\/unnamed_0f6fd9e1-c182-4e70-bf42-b50b88224d71.jpg",
             "show_imageproduct": false,
             "overlay_opacity": 0,
             "focal_point": "bottom center"
           }
+        },
+        "43fd50f5-1dcd-4133-b38b-7ca62a13a903": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
-        "slideshow-0"
+        "slideshow-0",
+        "43fd50f5-1dcd-4133-b38b-7ca62a13a903"
       ],
       "settings": {
         "section_height": "550px",
@@ -40,23 +57,23 @@
     "rich-text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
+        "2b7ee18b-2f47-46a6-a7e9-9e47b2063c87": {
           "type": "heading",
           "settings": {
-            "title": "This company is a result of dreams and hard work."
+            "title": "WHO WE ARE?"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>Godfrey Barongo - co-founder and product manager of the company - started his path 15 years ago working as a cook, driver and a safari guide. After some time of intense work he managed to buy a car with the idea of founding his own travel company, <strong>a company that would stand out in the market<\/strong>. The time came to share all the experience he had gained. These goals started to come to life when he met Antonina - the other co-founder and CEO of the company. Antonina is a travel lover and a photographer with over 10 years of experience working on commissioned assignments from various publications. Her passion and work lead her to discover breath-taking places and to live together with some of the most remote communities in Tanzania. <strong>The Image of Africa<\/strong> started when these two people met in Tanzania and decided that their journey together was about to begin.<\/p>",
+            "text": "<p>The Image of Africa is a tour operator and destination management company based in Tanzania. Our mission is to “Transcend Cultural Barriers” by crafting authentic and unique routes. We are dedicated to providing exclusive services to our guests and giving them the opportunity to visit the country’s most remote corners with comfort and safety. Our priority is to make sure that you will have a memorable once-in-a-lifetime experience that will reflect your needs, passions and interests.Our routes and the approach to tourism have no analog in Tanzania due to the complexity, logistics, remoteness and sensitivity to the places and cultures that we will take you through. We create travel experiences that will give you a chance to immerse yourself into the interior of Tanzania which has never been seen by a tourist.<\/p>",
             "product_description": false
           }
         }
       },
       "block_order": [
-        "heading",
+        "2b7ee18b-2f47-46a6-a7e9-9e47b2063c87",
         "text"
       ],
       "settings": {
@@ -70,13 +87,13 @@
       "settings": {
         "subtitle": "",
         "title": "Team of dedicated professionals",
-        "text": "<p>We are a local company based in Tanzania, but our team consists of people from three different continents, there are no boundaries and we treat everyone as equals. Our guides are qualified expert guides born and raised in Tanzania with experience ranging from 15 to 30 years! <\/p>",
+        "text": "<p>We are a group of interdisciplinary professionals who have passion for adventure and exploration and with a baggage of knowledge and experience behind our backs. Every route that we design is carefully thought and diligently planned. We take time to hear your thoughts, desires and expectations. There are no boundaries for us when it comes to exploring a particular subject - whether it is wildlife or culture. <\/p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify:\/\/shop_images\/Team_82173023-0029-464a-86aa-d3b3fc29bc0b.jpg",
+        "image": "shopify:\/\/shop_images\/team_b08a4495-57d7-474e-976e-18acf6bf6986.jpg",
         "focal_point": "center",
         "layout": "left",
-        "height": 550,
+        "height": 750,
         "parallax": false
       }
     },
@@ -87,7 +104,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>We are focused on showing you the world where old traditions and customs still exist so that you are able to feel a deeper connection with nature. We believe that this profound experience can change the way we see the world. We want to encourage you to choose genuine travel experiences with sustainable practices of high quality standards and we are here to offer them to you!<\/p>",
+            "text": "<p>We put heart and soul into what we do and we strongly believe that travel experiences that we offer can change the way we look at the world and make us better human beings getting us closer to nature. This profound experience is truly and utterly priceless.<\/p>",
             "product_description": false
           }
         }
@@ -101,12 +118,71 @@
         "divider": false
       }
     },
+    "16565172857e3b6b3e": {
+      "type": "text-columns",
+      "blocks": {
+        "16565172853f783f0d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/tia-3.jpg",
+            "image_width": 650,
+            "subheading": "<p>Founder and CEO<\/p>",
+            "title": "Antonina Zharko",
+            "uppercase": false,
+            "text": "<p>Antonina, born and raised in Siberia, is a photographer with 12 years of experience in portrait, documentary and fashion photography. She accomplished her photography degree with excellence in the department of journalism and social communications in Dublin, Ireland and had been living in Moscow, London and New York before she settled in Tanzania as a volunteer. There she discovered her true passion for African cultures and exploration of remote places. Her experience of Tanzanian ‘wonderland’ and its unexplored interior had led her to create a travel company that would give a chance to like-minded individuals to experience what she has been experiencing up to this day. This strong, powerful feeling from interaction with African cultures has become the main driving force for deep exploration of Tanzania, and therefore she wants to pass and share her knowledge with guests by crafting off-the-beaten-track routes. She believes that this mind-transforming experience, humane and gentle approach to cultural interactions as well as closeness to nature and wildlife is indeed the future of tourism in Africa and in Tanzania in particular.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16565172853f783f0d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/tia-2_a2065ca5-9937-4219-8ec6-c74788e66566.jpg",
+            "image_width": 650,
+            "subheading": "<p>Business Development<\/p>",
+            "title": "Julian Stivelman",
+            "uppercase": false,
+            "text": "<p>Julian is passionate about traveling and discovering different cultures and natural environments. In addition to his tourism studies, Julian has completed courses in political science, international trade, philosophy, and finances. Julian sees tourist activity as an empowering tool for indigenous cultures to strive.  Having traveled extensively throughout Asia, America, and Africa Julian experienced a variety of cultures and realities sharing life-changing moments with members of different tribes. The Image of Africa is a project where he is able to use his professional skills and link them with his love for nature and traditional cultures, focusing his attention on taking guests to discover the wonders of the most remote places of Tanzania. His goal is to make sure that this exploration is done with profound respect for the cultures and nature. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "37927792-fa49-4127-8844-a2b7ba004aec": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/56402.jpg",
+            "image_width": 650,
+            "subheading": "<p>Cultural Guide<\/p>",
+            "title": "Momoya",
+            "uppercase": true,
+            "text": "<p>Momoya has been working as a field guide for 20 years. He started his career at a young age helping national and international researchers to explore the Lake Eyasi basin and the cultures that live around the area. Momoya belongs to the Datoga tribe and grew up between Lake Eyasi and Karatu. While growing up in a farmer's family he got to learn the neighboring tribes’ languages. His father was the first one in the Eyasi area to host a researcher from abroad, that’s when Momoya first time realized the value of the cultural heritage of his country. As part of his pastoralist legacy, Momoya is used to traveling long distances within Tanzania, which led him to get to know other cultures of the country. Nowadays he is one of the main references for cultural tourism in Northern Tanzania and is one of the pioneers of cultural tourism in Tanzania. It is important to note that before the emergence of the community tourism in the area, the Lake Eyasi basin was one of the hunting destinations for foreigners, which affected the life of the Hadzabe hunter-gatherers. Momoya fought against the hunting activity and trained younger guides in order for them to carry out the tourist activity by themself and protect the cultural heritage in Northern Tanzania.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16565172853f783f0d-0",
+        "16565172853f783f0d-1",
+        "37927792-fa49-4127-8844-a2b7ba004aec"
+      ],
+      "settings": {
+        "title": "MEET OUR TEAM",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "form": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
         "title": "Contact us",
         "text": "",
         "show_phone": false,
+        "show_country": false,
         "narrow_column": true
       }
     }
@@ -117,6 +193,7 @@
     "rich-text",
     "1646883852e4195467",
     "16468841158f2fa4be",
+    "16565172857e3b6b3e",
     "form"
   ]
 }

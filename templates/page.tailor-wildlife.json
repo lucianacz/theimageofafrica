@@ -65,6 +65,17 @@
         "divider": false
       }
     },
+    "16474478293f60f51e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "WILDLIFE EXPERIENCES",
+        "home_featured_products": "wildlife-experiences",
+        "per_row": 3,
+        "rows": 2,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "164744795554813ed3": {
       "type": "text-columns",
       "blocks": {
@@ -114,12 +125,12 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/manyara_giraffe1_eda2b7c1-ca3b-4595-a8e0-f7a8cf7a918e.jpg",
+            "image": "shopify:\/\/shop_images\/chimpanzee2.jpg",
             "image_width": 650,
             "subheading": "",
-            "title": "LAKE MANYARA",
+            "title": "Gombe Stream National Park",
             "uppercase": true,
-            "text": "<p>It is a perfect place to see the spectacular 400 meter high Rift Valley Escarpment. <em>The Great Rift Valley<\/em> is a long rift which runs down the eastern side of Africa and was formed about 20 to 25 million years ago when the earth’s crust teared apart.<\/p>",
+            "text": "<p>Gombe is the smallest national park in Tanzania with the highest concentration of primates in Africa. Renowned for the scientific research and work of Jane Goodall with Chimpanzees, this park is surprisingly diverse with dense Tarzan-like jungle, grasslands, steep valleys and tropical rainforest. Other primates include blue monkeys, olive baboons, red colobus monkeys, red-tailed monkeys, and vervet monkeys. The primary activity in the park is guided hikes into the remote jungle to observe and experience the chimpanzees and other primates. <\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -147,7 +158,21 @@
             "subheading": "",
             "title": "LAKE NATRON",
             "uppercase": true,
-            "text": "<p>Located at the lowest point of the Great Rift Valley, Lake Natron presents some of the most unusual and dramatic scenery in Tanzania. This remote region at the foothills of Oldoinyo Lengai, a still active volcano, features very little wildlife but despite the extremely alkaline water the lake is nevertheless home to a fascinating ecosystem of microorganisms that attracts thousands of flamingos. Although the Lake Natron area is desolate and hot, the unique beauty of Natron is not to be missed.<\/p>",
+            "text": "<p>Located at the lowest point of the Great Rift Valley, Lake Natron presents some of the most unusual and dramatic scenery in Tanzania. This remote region at the foothills of Oldoinyo Lengai, a still active volcano, features very little wildlife but despite the extremely alkaline water the lake is nevertheless home to a fascinating ecosystem of microorganisms that attracts thousands of flamingos. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "847c87a2-0edf-4837-9fd6-9b794107fa0a": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Mahale-Chimp-by-Chris-Thomas.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "Mahale Mountains National Park",
+            "uppercase": true,
+            "text": "<p>This nature reserve is exceedingly remote and hard to access, but it is one of the most incredible places to visit in Africa. It is known to be the best place in the world for chimpanzee safaris. Located on the shore of Lake Tanganyika, it has a crystal clean white-sand beach with a range of magnificent mountains covered with lush green tropical vegetation. In this highly protected area, you will see no roads so you can only explore the park on foot, which makes the experience even more exciting!<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -159,12 +184,13 @@
         "16474479559d8b299f-2",
         "1ee7b2a9-7f34-4f9e-8e91-d171875a7726",
         "f8d5cfb8-0156-4c60-9bb4-db9aa17db5bd",
-        "1d1d21a0-13ab-4509-b8c1-5600875b2220"
+        "1d1d21a0-13ab-4509-b8c1-5600875b2220",
+        "847c87a2-0edf-4837-9fd6-9b794107fa0a"
       ],
       "settings": {
         "title": "NATURE RESERVES",
         "align_text": "center",
-        "divider": false
+        "divider": true
       }
     },
     "16474472286d5ae70f": {
@@ -200,26 +226,15 @@
         "narrow_column": true,
         "divider": false
       }
-    },
-    "16474478293f60f51e": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "WILDLIFE EXPERIENCES",
-        "home_featured_products": "wildlife-experiences",
-        "per_row": 3,
-        "rows": 1,
-        "view_all": false,
-        "divider": false
-      }
     }
   },
   "order": [
     "main",
     "1647447110d65abe2c",
     "1647447183f499b37e",
+    "16474478293f60f51e",
     "164744795554813ed3",
     "16474472286d5ae70f",
-    "164744726593c1edfe",
-    "16474478293f60f51e"
+    "164744726593c1edfe"
   ]
 }

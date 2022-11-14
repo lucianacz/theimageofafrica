@@ -35,7 +35,7 @@
       <article class="article article--layout" data-aos>
         <div class="article__image-wrap{% if article.image == blank %} article__image-wrap--empty{% endif %}{% if is_even_post %} article__image-wrap--right{% endif %}">
           {%- if article.image -%}
-            <div class="article__image image-wrap">
+            <a href="{{ article.url }}" class="article__image image-wrap">
               {%- assign img_url = article.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
               <img class="image-fit lazyload"
                   data-src="{{ img_url }}"
@@ -46,7 +46,7 @@
               <noscript>
                 <img class="image-fit lazyloaded" src="{{ article.image | img_url: '600x' }}" alt="{{ article.title | escape }}">
               </noscript>
-            </div>
+            </a>
           {%- endif -%}
         </div>
 
@@ -83,7 +83,13 @@
             </h2>
 
             {%- if section.settings.blog_show_author -%}
-              <div class="article__author">by {{ article.author }}</div>
+            {% assign author = article.author %}
+            {% for tag in article.tags %}
+              {% if tag contains 'autor:' %}
+                {% assign author = tag | remove: 'autor:' %}
+              {% endif %}
+            {% endfor %}
+              <div class="article__author">by {{ author }}</div>
             {%- endif -%}
           </div>
 

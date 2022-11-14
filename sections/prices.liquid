@@ -1,0 +1,225 @@
+<div class="page-width page-width--narrow accomodation--{{ section.id }}">
+    {%- if section.settings.title != blank -%}
+      <header class="section-header">
+        <h2 class="section-header__title">
+          {{ section.settings.title | escape }}
+        </h2>
+      </header>
+    {%- endif -%}
+
+    {% assign show_tabs = false %}
+    {% assign show_midrange = false %}
+    {% assign show_luxury = false %}
+
+
+    {% for variant in product.variants %}
+    {% if variant.title contains 'Mid' or variant.title contains 'Luxury' %}
+      {% assign show_tabs = true %}
+      {% if variant.title contains 'Mid' %}
+      {% assign show_midrange = true %}
+      {% endif %}
+      {% if variant.title contains 'Luxury' %}
+      {% assign show_luxury = true %}
+      {% endif %}
+    {% endif %}
+    {% endfor %}
+
+
+
+  {% if show_tabs %}
+  <div class="tab">
+    {% if show_midrange %}
+    <button class="tablinks" onclick="openTab(event, 'mid-range')" id="defaultOpen">Mid-Range</button>
+    {% endif %}
+    {% if show_luxury %}
+    <button class="tablinks" onclick="openTab(event, 'luxury')" {% if show_midrange == false %}id="defaultOpen"{% endif %}>Luxury</button>
+    {% endif %}
+  </div>
+
+  <!-- Tab content -->
+  {% if show_midrange %}
+  <div id="mid-range" class="tabcontent">
+    <div style="overflow: scroll">
+      <table class="small--hide">
+        <tr>
+          {% for option in product.options_by_name['Guests'].values %}
+          <th scope="col">{{ option }} {% if option == '1' %}PERSON {% else %}PEOPLE{% endif %}
+            </th>
+          {% endfor %}
+        </tr>
+        <tr>
+          {% for variant in product.variants %}
+          {% if variant.title contains 'Mid' %}
+          {% assign pax = variant.title | split: '/' | last | split: '-' | first %}
+          <td>{{ variant.price | divided_by: pax | money }}</td>
+          {% endif %}
+          {% endfor %}
+        </tr>
+      </table>
+    </div>
+
+    <div class="small--show hide">
+      <div class="table-prices">
+        {% for variant in product.variants %}
+        {% if variant.title contains 'Mid' %}
+        {% assign pax = variant.title | split: '/' | last | split: '-' | first %}
+        <div class="price-variant">
+          <h5>{{ variant.title | split: '/' | last  }} PEOPLE:</h5>
+          <span>{{ variant.price | divided_by: pax | money }}</span>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="accomodation accomodation-midrange">
+      {% for media in product.media %}
+      {% if media.alt contains 'Mid-Range:' %}
+        <div class="accomodation--media">
+          <img src="{{ media | img_url: 'master'}}" alt="{{ media.alt }}">
+          <p>{{- media.alt | remove: 'Mid-Range:' -}}</p>
+        </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if show_luxury %}
+    
+  <div id="luxury" class="tabcontent">
+    <div style="overflow: scroll">
+      <table class="small--hide">
+        <tr>
+          {% for option in product.options_by_name['Guests'].values %}
+          <th scope="col">{{ option }} {% if option == '1' %}PERSON {% else %}PEOPLE{% endif %}
+          {% endfor %}
+        </tr>
+        <tr>
+          {% for variant in product.variants %}
+          {% if variant.title contains 'Luxury' %}
+          {% assign pax = variant.title | split: '/' | last | split: '-' | first %}
+          <td>{{ variant.price | divided_by: pax | money }}</td>
+          {% endif %}
+          {% endfor %}
+        </tr>
+      </table>
+    </div>
+
+    <div class="small--show hide">
+      <div class="table-prices">
+        {% for variant in product.variants %}
+        {% if variant.title contains 'Luxury' %}
+        {% assign pax = variant.title | split: '/' | last | split: '-' | first %}
+        <div class="price-variant">
+          <h5>{{ variant.title | split: '/' | last  }} PEOPLE:</h5>
+          <span>{{ variant.price | divided_by: pax | money }}</span>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="accomodation accomodation-luxury">
+      {% for media in product.media %}
+        {% if media.alt contains 'Luxury' %}
+          <div class="accomodation--media">
+            <img src="{{ media | img_url: 'master'}}" alt="{{ media.alt }}">
+            <p>{{- media.alt | remove: 'Luxury:' -}}</p>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+  {% else %}
+  <div class="text-center one-price">
+    <div class="price-variant">
+      <strong>{{ product.price | money }}</strong>/PER PERSON
+    </div>
+  </div>
+  {% endif %}
+
+
+</div>
+
+
+
+
+<script>
+  document.getElementById("defaultOpen").click();
+  function openTab(evt, tabName) {
+
+    var i, tabcontent, tablinks;
+
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+
+
+    $('.accomodation--{{ section.id }} .accomodation-'+tabName).slick({
+    slidesToShow: 2,
+    slidesToScroll: 1,
+    arrows: true,
+    dots: false,
+    prevArrow: '<div class="custom-arrow prev-custom-arrow"></div>',
+    nextArrow: '<div class="custom-arrow next-custom-arrow"></div>',
+    pauseOnHover: false,
+    responsive: [
+        {
+          breakpoint: 750,
+          settings: {
+            slidesToShow: 1
+          }
+        }
+      ]
+    });
+  }
+
+  $('.accomodation--{{ section.id }} .accomodation-midrange').slick({
+    slidesToShow: 2,
+    slidesToScroll: 1,
+    arrows: true,
+    dots: false,
+    prevArrow: '<div class="custom-arrow prev-custom-arrow"></div>',
+    nextArrow: '<div class="custom-arrow next-custom-arrow"></div>',
+    pauseOnHover: false,
+    responsive: [
+        {
+          breakpoint: 750,
+          settings: {
+            slidesToShow: 1
+          }
+        }
+      ]
+  });
+</script>
+  
+
+  {% schema %}
+    {
+      "name": "Table prices",
+      "class": "index-section",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Heading",
+          "default": "Prices"
+        }
+      ],
+      "presets": [{
+        "name": "Table prices"
+      }]
+    }
+  {% endschema %}
+  

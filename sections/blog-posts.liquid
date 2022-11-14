@@ -60,7 +60,13 @@
             <a href="{{ article.url }}" class="article__title">{{ article.title }}</a>
 
             {%- if section.settings.blog_show_author -%}
-              <div class="article__author">by {{ article.author }}</div>
+              {% assign author = article.author %}
+              {% for tag in article.tags %}
+                {% if tag contains 'autor:' %}
+                  {% assign author = tag | remove: 'autor:' %}
+                {% endif %}
+              {% endfor %}
+              <div class="article__author">by {{ author }}</div>
             {%- endif -%}
           </div>
         </div>

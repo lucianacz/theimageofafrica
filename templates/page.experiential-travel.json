@@ -1,0 +1,209 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "165875765807964246": {
+      "type": "slideshow",
+      "blocks": {
+        "1658757658f73acb9a-0": {
+          "type": "image",
+          "settings": {
+            "title": "Experiential Travel",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "Photo by Didier Torres",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/A6400666.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "1658757658f73acb9a-1": {
+          "type": "image",
+          "settings": {
+            "title": "Experiential Travel",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/datoga_women_dancing2_1.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "1fcc8919-5cb6-4f0f-9d81-6422e20b76d0": {
+          "type": "image",
+          "settings": {
+            "title": "Experiential Travel",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/fly_mobile_camp.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "f42adef9-be67-4a38-b496-fd852093ea38": {
+          "type": "image",
+          "settings": {
+            "title": "Experiential Travel",
+            "title_2": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-08-10_at_10.55.41_AM.jpg",
+            "show_imageproduct": false,
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1658757658f73acb9a-0",
+        "1658757658f73acb9a-1",
+        "1fcc8919-5cb6-4f0f-9d81-6422e20b76d0",
+        "f42adef9-be67-4a38-b496-fd852093ea38"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "165875830684a51f0e": {
+      "type": "rich-text",
+      "blocks": {
+        "16587583063a94b4b8-0": {
+          "type": "heading",
+          "settings": {
+            "title": "What is Experiential Travel?"
+          }
+        },
+        "16587583063a94b4b8-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Experiential travel is a handful of unique and curated experiences that we want to invite you to in order to expand your travel boundaries and broaden your knowledge about Tanzania.<\/p><p>Our goal is to draft and implement the experiences that will allow you to get to know the country from another perspective by putting you in close contact with nature and local cultures. This way of travel will give you the opportunity to fully participate in what surrounds you, wether it is the wild bush, culture or a variety of landsapes and ecosystems.<\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "16587583063a94b4b8-0",
+        "16587583063a94b4b8-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1658758967fc471648": {
+      "type": "text-columns",
+      "blocks": {
+        "a42e63a1-8290-46dc-a550-079845d199c0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Nyasa-Lake-1_1.jpg",
+            "image_width": 380,
+            "subheading": "",
+            "title": "EXPEDITIONS BY ROAD AND BOAT",
+            "uppercase": true,
+            "text": "<p>Following the steps of Dr. Livingstone, Sir Richard Burton and John Speke, we are here to lead you through the historical landmarks, slave routes, forgotten roads, mysterious cultures, foggy mountain trails, crocodile rivers and remote game reserves. These expeditions are uniquely crafted and none of them repeat itself. Discover remote, rural and wild Africa by walking, driving and boating through the paths of the great explorers and make your own discoveries along the way.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16587589673c94f673-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Sukuma_dance_4.jpg",
+            "image_width": 650,
+            "subheading": "",
+            "title": "cultural ceremonies",
+            "uppercase": true,
+            "text": "<p>We put a lot of effort into creating strong bonds with some of the most remote traditional cultures in Tanzania. This work gives us the possibility of having privileged invitations when it comes to rituals and ceremonies in these indigenous cultures. At times it is not easy and involves a lot of logistics, but there may be a good chance that we can get you to the right place at the right time. Participating in these types of events is a transformative experience that will change the way you understand the world.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16587589673c94f673-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/tim_camp_1.jpg",
+            "image_width": 650,
+            "subheading": "<p>In partnership with EcoTz<\/p>",
+            "title": "Fly-Mobile Camp",
+            "uppercase": true,
+            "text": "<p>Experience African Bush in the private fly-camp in a set of luxury lightweight mobile stretch tents for comfortable sleep with an open panoramic view, privacy curtains and dressing areas. This camp is set just for you in a remote and spacious areas where you will be able to experience the wilderness on foot during the daytime and night time, just like in good old days! You will spend your days exploring flora and fauna of the wildlife protected areas and game reserves one-on-one with nature. During your stay at the camp we offer early morning and night game drives with thermal infrared camera equipment. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16587589673c94f673-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/JodyMacdonaldWeb13.jpg",
+            "image_width": 650,
+            "subheading": "<p>Photo by Jody Macdonald<\/p>",
+            "title": "Scenic flights",
+            "uppercase": true,
+            "text": "<p>Let your wildest dreams come true by flying through the most spectacular landscapes of East Africa. We offer a one-seater plane with a 180-degree panoramic view that will allow you to enjoy an impressive landscape from above. We can arrange scenic flights for you in various regions of Tanzania. We draft the flight locations, routes and schedules in close cooperation with our pilot to meet your desires.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a42e63a1-8290-46dc-a550-079845d199c0",
+        "16587589673c94f673-2",
+        "16587589673c94f673-0",
+        "16587589673c94f673-1"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1658762263ca15f34e": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Want to include this experience in your next adventure? Send us your message",
+        "text": "",
+        "show_phone": false,
+        "show_country": false,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165875765807964246",
+    "165875830684a51f0e",
+    "1658758967fc471648",
+    "1658762263ca15f34e"
+  ]
+}
