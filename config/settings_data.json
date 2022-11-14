@@ -48,9 +48,11 @@
     "enable_product_reviews": true,
     "cart_type": "drawer",
     "cart_notes_enable": true,
+    "cart_terms_conditions_enable": true,
     "social_facebook_link": "https:\/\/www.facebook.com\/TheImageofAfrica\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/theimageofafrica\/",
     "favicon": "shopify:\/\/shop_images\/Favicon.png",
+    "show_breadcrumbs": false,
     "checkout_header_image": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo.png",
     "checkout_logo_position": "left",
@@ -124,7 +126,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "CONTACT INFO",
-              "text": "<p>Address : P.O.BOX 557, Usa River, Arusha, Tanzania<br\/><\/p><p>Phone : +255 756 256 732 (WhatsApp)<\/p><p>theimageofafrica@gmail.com<\/p><p><\/p>",
+              "text": "<p>Address : P.O.BOX 2693, Usa River, Arusha, Tanzania<br\/><\/p><p>Phone : +255 756 256 732 (WhatsApp)<\/p><p>theimageofafrica@gmail.com<\/p><p><\/p>",
               "container_width": 30
             }
           },

@@ -9,7 +9,7 @@
             "title": "",
             "title_2": "{{ product.title }}",
             "title_size": 72,
-            "subheading": "BY {{ product.vendor }}",
+            "subheading": "WITH {{ product.vendor }}",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
@@ -25,7 +25,7 @@
             "title": "",
             "title_2": "{{ product.title }}",
             "title_size": 72,
-            "subheading": "BY {{ product.vendor }}",
+            "subheading": "WITH {{ product.vendor }}",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
@@ -180,7 +180,7 @@
             "image": "shopify:\/\/shop_images\/JEEP.jpg",
             "image_width": 60,
             "subheading": "<p>GROUP SIZE<\/p>",
-            "title": "MAX {{ product.metafields.tia.group.value }}",
+            "title": "{{ product.metafields.tia.group.value }}",
             "uppercase": true,
             "text": "",
             "button_label": "",
@@ -218,21 +218,72 @@
         },
         "1f2712b9-72f5-4a2e-985c-0a7f7d5cd202": {
           "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "link_text": "RECEIVE THE FULL ITINERARY",
+            "product_list": [
+              "off-the-beaten-path-wildlife-photography-tour-with-chase-teron",
+              "ancient-cultures-ethnic-groups-of-northern-tanzania-with-trevor-cole",
+              "wildlife-photography-tour-with-susan-seubert",
+              "undiscovered-east-africa"
+            ]
+          }
+        },
+        "56cce84a-d353-47aa-80a8-1e92c54b56ba": {
+          "type": "button",
           "settings": {
             "link": "#Itinerary",
-            "link_text": "RECEIVE THE FULL ITINERARY"
+            "link_text": "CREATE FULL ITINERARY",
+            "product_list": [
+              "private-photo-tour-ian-robert-knight"
+            ]
           }
         }
       },
       "block_order": [
         "1647914843ec46c692-0",
         "1647914843ec46c692-1",
-        "1f2712b9-72f5-4a2e-985c-0a7f7d5cd202"
+        "1f2712b9-72f5-4a2e-985c-0a7f7d5cd202",
+        "56cce84a-d353-47aa-80a8-1e92c54b56ba"
       ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "divider": true
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "blocks": {
+        "8f91555a-af22-4e61-98b0-e000b789d25a": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "43773656-1b39-4e12-a5bc-742bf2f84e82": {
+          "type": "reviews",
+          "settings": {}
+        },
+        "0ba096b2-b24a-47fa-839d-108d1d545d91": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "8f91555a-af22-4e61-98b0-e000b789d25a",
+        "43773656-1b39-4e12-a5bc-742bf2f84e82",
+        "0ba096b2-b24a-47fa-839d-108d1d545d91"
+      ],
+      "settings": {
+        "max_width": true
       }
     },
     "1647915072c86409a6": {
@@ -287,38 +338,6 @@
       "type": "collection-return",
       "settings": {}
     },
-    "sub": {
-      "type": "product-full-width",
-      "disabled": true,
-      "blocks": {
-        "8f91555a-af22-4e61-98b0-e000b789d25a": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        },
-        "43773656-1b39-4e12-a5bc-742bf2f84e82": {
-          "type": "reviews",
-          "settings": {}
-        },
-        "0ba096b2-b24a-47fa-839d-108d1d545d91": {
-          "type": "tab",
-          "settings": {
-            "title": "Shipping information",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "8f91555a-af22-4e61-98b0-e000b789d25a",
-        "43773656-1b39-4e12-a5bc-742bf2f84e82",
-        "0ba096b2-b24a-47fa-839d-108d1d545d91"
-      ],
-      "settings": {
-        "max_width": true
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -334,11 +353,11 @@
     "main",
     "164791445686716d03",
     "1647914843f19cab52",
+    "sub",
     "1647915072c86409a6",
     "16479149333323d88e",
     "1647915074966635a2",
     "collection-return",
-    "sub",
     "product-recommendations"
   ]
 }
