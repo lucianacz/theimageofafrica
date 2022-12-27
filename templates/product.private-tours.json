@@ -348,7 +348,7 @@
           "type": "tab",
           "settings": {
             "title": "{{ product.metafields.tia.day_11_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_11_title.value }}<\/p>",
+            "content": "<p>{{ product.metafields.tia.day_11_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
