@@ -267,8 +267,8 @@
         "b1e77495-8054-4656-93ad-6b44dc7bef42": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_1_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_1_content | metafield_tag }}<\/p>",
+            "title": "October 8: Arrival at Kilimanjaro International Airport. Transfer to the lodge. Briefing.",
+            "content": "<p>Our driver will be waiting for you at the airport to transfer you to your lodge in Arusha. Upon arrival at the lodge, your tour leader and a member of our team will meet you for a briefing and Q&A about your trip. <\/p><p>Accommodation: Rivertrees Country Inn<\/p><p>http:\/\/rivertrees.com\/lodge\/<\/p>",
             "page": ""
           }
         },
