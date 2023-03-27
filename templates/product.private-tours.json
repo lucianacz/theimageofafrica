@@ -291,8 +291,8 @@
         "d0c08997-19d3-45ab-bcf9-86bd38236a2f": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_4_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_4_content | metafield_tag }}<\/p>",
+            "title": "October 11: Overland transfer to the Southern Lake Eyasi. Introduction to Sukuma people.",
+            "content": "<p>Today we will relocate to a remote area at the Southern tip of Lake Eyasi. There we will enter the Sukuma Land. The Sukuma Tribe makes up the majority of people in Tanzania. We will explore their way of life, will interact with them, observe and participate in their daily activities and will witness a very strong and fascinating dancing culture. <\/p><p>Accommodation: Camping in Sukuma Land (South of Lake Eyasi).<\/p>",
             "page": ""
           }
         },
