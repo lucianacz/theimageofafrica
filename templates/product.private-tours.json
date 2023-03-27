@@ -275,8 +275,8 @@
         "ea571334-e00e-43b1-b587-443a2b879ad4": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_2_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_2_content | metafield_tag }}<\/p>",
+            "title": "October 9: Overland transfer to the Northern Lake Eyasi.",
+            "content": "<p>In the morning, be ready for a 4-hour drive to Lake Eyasi northern shores, to a small town called Mangola. Arrive at your camp by lunch time and after some rest, visit fishermen village and have sundowner at the lake.<\/p><p>Accommodation: <a href=\"http:\/\/entara.co.tz\/kisima-ngeda-camp\/\" target=\"_blank\" title=\"http:\/\/entara.co.tz\/kisima-ngeda-camp\/\">Kisimangeda Camp<\/a><\/p><p><\/p>",
             "page": ""
           }
         },
