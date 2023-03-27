@@ -339,24 +339,24 @@
         "f95fa648-a84f-4d28-8ecf-9527abb51658": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_10_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_10_content | metafield_tag }}<\/p>",
+            "title": "October 18: Air transfer from Kogatende airstrip to Manyara airstrip. Transfer to coffee farm house.",
+            "content": "<p>In the morning, take a domestic flight from Northern Serengeti to Manyara Airstrip and, passing by a small town of Karatu, drive towards Ngorongoro Highlands. Finish your day with beautiful sundowner and delicious dinner.<\/p><p>Accommodation: <a href=\"https:\/\/twctanzania.com\/accommodation\/ngorongoro-farm-house\/\" target=\"_blank\" title=\"https:\/\/twctanzania.com\/accommodation\/ngorongoro-farm-house\/\">Ngorongoro Farm House<\/a><\/p>",
             "page": ""
           }
         },
         "cbbe9f98-929b-4d89-acac-10f8e1589002": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_11_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_11_content | metafield_tag }}<\/p>",
+            "title": "October 19: Coffee tour at the farm followed by overland transfer to Arusha.",
+            "content": "<p>In the morning, have a coffee tour around the farm, and proceed back to Arusha with a shopping stop for local souvenirs.<\/p><p>Accommodation: <a href=\"http:\/\/rivertrees.com\/lodge\/\" target=\"_blank\" title=\"http:\/\/rivertrees.com\/lodge\/\">Rivertrees Country Inn<\/a><\/p>",
             "page": ""
           }
         },
         "9e4fa9ce-6ba9-49b5-b591-477db628bb56": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.title.day_12_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_12_content | metafield_tag }}<\/p>",
+            "title": "October 20: Transfer to Kilimanjaro International Airport for the international flight home.",
+            "content": "",
             "page": ""
           }
         },
