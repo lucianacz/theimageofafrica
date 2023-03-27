@@ -299,40 +299,40 @@
         "65a4bd22-b132-4460-b294-5788222927ec": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_5_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_5_content | metafield_tag }}<\/p>",
+            "title": "October 12: Southern Lake Eyasi. Full day with Sukuma.",
+            "content": "<p>Accommodation: Camping in Sukuma Land.<\/p>",
             "page": ""
           }
         },
         "9236351a-0824-4af0-9a27-bb661793f1c5": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_6_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_6_content | metafield_tag }}<\/p>",
+            "title": "October 13: Overland transfer to Maswa Game Reserve.",
+            "content": "<p>In the early hours of the morning you will drive via the remote unpaved road towards Maswa game reserve, passing lake Eyasi on the southern side. The road will pass along the escarpment of the Great Rift Valley. You will end up on the other side of the escarpment with Southern Serengeti plains on one side and Maswa Game Reserve on the other side.<\/p><p>Accommodation: Private mobile camp.<\/p>",
             "page": ""
           }
         },
         "0c02707f-4584-4a02-934b-a23abbcd5964": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_7_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_7_content | metafield_tag }}<\/p>",
+            "title": "October 14-15: Maswa Game reserve and Southern Serengeti.",
+            "content": "<p>Maswa Game Reserve and remote Southern Serengeti are two of the most breathtaking and wildlife-rich areas in Tanzania. Maswa Game Reserve is located between the famous Serengeti and Ngorongoro Conservation Area, offering a unique corridor for wildlife migration and biodiversity preservation. In Maswa, visitors can experience a rugged terrain that includes rocky hills, vast savannahs, and dense forests, providing a range of habitats for wildlife. The reserve is home to diverse wildlife species, including large predators like lions, leopards, and cheetahs, as wellas herbivores like zebras, giraffes, and wildebeest. You can also enjoy birdwatching and seeing a variety of bird species in their natural habitats. The remote Southern Serengeti is stunningly beautiful region of the Serengeti that is relatively untouched by tourism.<\/p><p>Accommodation: Private Mobile Camp.<\/p>",
             "page": ""
           }
         },
         "063730f9-8713-4975-bd49-b6a29bef5e64": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_8_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_8_content | metafield_tag }}<\/p>",
+            "title": "October 16: Air transfer from Mwiba Airtstip to Kogatende (Northern Serengeti).",
+            "content": "<p>In the morning, be ready for the airtransfer from Southern Serengeti to Northern Serengeti where the Great Migration of wildebeest is taking place. Check into your camp and proceed with afternoon great migration game drives.<\/p><p>Accommodation: <a href=\"https:\/\/entara.co.tz\/esirai-camp\/\" target=\"_blank\" title=\"https:\/\/entara.co.tz\/esirai-camp\/\">Esirai Camp<\/a><\/p>",
             "page": ""
           }
         },
         "cd3d2d15-921a-4347-b004-b615b121fd6f": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_9_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_9_content | metafield_tag }}<\/p>",
+            "title": "October 17: Full day of Great Migration game drives.",
+            "content": "<p>In the Northern Region, the landscape is very scenic and consists of hills, riverine forests and plains. There is the famous Mara River, which provides the setting for the fantastic river crossing event - the Mara river crossing by the giant herds of wildebeest, providing an ultimate great migration experience. The Northern part of the Serengeti is famous for its cheetahs, the gracious big cats of Africa. During the Great Migration and the Mara River crossing, you can witness the most fascinating wildlife spectacle: over two million wildebeests along with thousands of zebras, Thomson’s gazelles, impalas and kudus make their attempt to cross the Mara River in search for grazing and water. During this time the Nile Crocodiles and Hippos try to hunt the multitude of animals making it a challenge for the migrants to reach the opposite shore.<\/p><p>Accommodation: <a href=\"https:\/\/entara.co.tz\/esirai-camp\/\" target=\"_blank\" title=\"https:\/\/entara.co.tz\/esirai-camp\/\">Esirai Camp<\/a><\/p>",
             "page": ""
           }
         },
