@@ -283,8 +283,8 @@
         "7bf85adc-f1f0-489d-b201-1343c740a458": {
           "type": "tab",
           "settings": {
-            "title": "{{ product.metafields.tia.day_3_title.value }}",
-            "content": "<p>{{ product.metafields.tia.day_3_content | metafield_tag }}<\/p>",
+            "title": "October 10: Overland transfer to Yaeda Valley. Visit Hadzabe people.",
+            "content": "<p>Early in the morning head towards Yaeda Valley to the East of lake Eyasi basin. There is no tarmac road all the way to Hadzabe settlement so be ready to spend 2-3 hours on an unpaved and bumpy road passing through the dry jungle, stones and gigantic baobab trees, a true adventure! Upon arrival at the Hadzabe settlement, enjoy an evening hunt with Hadza men, or gather wild honey, join the women in their afternoon activities, such as digging out the roots of fetching water. <\/p><p>Accommodation: Camping at Yaeda Valley.<\/p>",
             "page": ""
           }
         },
