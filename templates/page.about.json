@@ -135,43 +135,13 @@
             "button_label": "",
             "button_link": ""
           }
-        },
-        "16565172853f783f0d-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/tia-2_a2065ca5-9937-4219-8ec6-c74788e66566.jpg",
-            "image_width": 650,
-            "subheading": "<p>Business Development<\/p>",
-            "title": "Julian Stivelman",
-            "uppercase": false,
-            "text": "<p>Julian is passionate about traveling and discovering different cultures and natural environments. In addition to his tourism studies, Julian has completed courses in political science, international trade, philosophy, and finances. Julian sees tourist activity as an empowering tool for indigenous cultures to strive.  Having traveled extensively throughout Asia, America, and Africa Julian experienced a variety of cultures and realities sharing life-changing moments with members of different tribes. The Image of Africa is a project where he is able to use his professional skills and link them with his love for nature and traditional cultures, focusing his attention on taking guests to discover the wonders of the most remote places of Tanzania. His goal is to make sure that this exploration is done with profound respect for the cultures and nature. <\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "37927792-fa49-4127-8844-a2b7ba004aec": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/56402.jpg",
-            "image_width": 650,
-            "subheading": "<p>Cultural Guide<\/p>",
-            "title": "Momoya",
-            "uppercase": true,
-            "text": "<p>Momoya has been working as a field guide for 20 years. He started his career at a young age helping national and international researchers to explore the Lake Eyasi basin and the cultures that live around the area. Momoya belongs to the Datoga tribe and grew up between Lake Eyasi and Karatu. While growing up in a farmer's family he got to learn the neighboring tribes’ languages. His father was the first one in the Eyasi area to host a researcher from abroad, that’s when Momoya first time realized the value of the cultural heritage of his country. As part of his pastoralist legacy, Momoya is used to traveling long distances within Tanzania, which led him to get to know other cultures of the country. Nowadays he is one of the main references for cultural tourism in Northern Tanzania and is one of the pioneers of cultural tourism in Tanzania. It is important to note that before the emergence of the community tourism in the area, the Lake Eyasi basin was one of the hunting destinations for foreigners, which affected the life of the Hadzabe hunter-gatherers. Momoya fought against the hunting activity and trained younger guides in order for them to carry out the tourist activity by themself and protect the cultural heritage in Northern Tanzania.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "16565172853f783f0d-0",
-        "16565172853f783f0d-1",
-        "37927792-fa49-4127-8844-a2b7ba004aec"
+        "16565172853f783f0d-0"
       ],
       "settings": {
-        "title": "MEET OUR TEAM",
+        "title": "OUR FOUNDER",
         "align_text": "center",
         "divider": false
       }
