@@ -100,19 +100,6 @@
     },
     "16468841158f2fa4be": {
       "type": "rich-text",
-      "blocks": {
-        "1646884114c0cde5ce-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>We put heart and soul into what we do and we strongly believe that travel experiences that we offer can change the way we look at the world and make us better human beings getting us closer to nature. This profound experience is truly and utterly priceless.<\/p>",
-            "product_description": false
-          }
-        }
-      },
-      "block_order": [
-        "1646884114c0cde5ce-1"
-      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
