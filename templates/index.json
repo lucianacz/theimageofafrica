@@ -97,28 +97,11 @@
             "overlay_opacity": 24,
             "focal_point": "center center"
           }
-        },
-        "67482d46-2785-4604-9966-1738913402ea": {
-          "type": "image",
-          "settings": {
-            "title": "KLIMANJARO\nTREKKING",
-            "title_2": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "shopify:\/\/pages\/kilimanjaro-climb",
-            "link_text": "READ MORE",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Kilimanjaro_hike_with_Didier.jpg",
-            "show_imageproduct": false,
-            "overlay_opacity": 16,
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
         "1646276375ce301b63-0",
-        "1646276375ce301b63-1",
-        "67482d46-2785-4604-9966-1738913402ea"
+        "1646276375ce301b63-1"
       ],
       "settings": {
         "section_height": "650px",
