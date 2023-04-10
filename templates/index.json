@@ -18,12 +18,6 @@
     "rich-text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Our Philosophy"
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -34,7 +28,6 @@
         }
       },
       "block_order": [
-        "heading",
         "text"
       ],
       "settings": {
