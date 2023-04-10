@@ -71,11 +71,27 @@
             "text": "<p>The Image of Africa is a tour operator and destination management company based in Tanzania. Our mission is to provide alternative ways of travel by crafting authentic and unique routes that will lead you to a more profound understanding of Africa. We are dedicated to providing exclusive services to our guests and giving them the opportunity to visit the country’s most remote corners with comfort and safety. Our priority is to make sure that you will have a memorable once-in-a-lifetime experience that will reflect your needs, passions and interests. Our routes and the approach to traveling have no analog in Tanzania due to the complexity, logistics, remoteness and sensitivity to the places and cultures that we will take you through. We create travel experiences that will give you a chance to immerse yourself into the interior of Tanzania which has never been seen by a tourist.<\/p>",
             "product_description": false
           }
+        },
+        "b80c9866-a881-4f1f-84a4-7314818cfdfd": {
+          "type": "heading",
+          "settings": {
+            "title": "OUR FOUNDER AND CEO"
+          }
+        },
+        "c809960a-4f36-46e4-b6eb-a707edcfaa0f": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<h3><strong>Antonina Zharko<\/strong><\/h3><p>Antonina, born and raised in Siberia, is a photographer with 12 years of experience in fine art, portrait, documentary and fashion photography. She accomplished her photography degree with excellence in the department of journalism and social communications in Dublin, Ireland and had been living in New York, Ireland and the United Kingdom before she settled in Tanzania. There she discovered her true passion for Africa and exploration of remote places. Her experience of Tanzanian ‘wonderland’ and its unexplored interior had led her to create a travel company that would give a chance to the like-minded individuals to experience what she has been experiencing up to this day. This strong, powerful feeling from interaction with African cultures has become the main driving force for deep exploration of Tanzania, and therefore she wants to pass and share her knowledge with guests by crafting off-the-beaten-track routes. She believes that this mind-transforming experience, respectful and gentle approach to traveling and cultural interactions as well as closeness to nature and wildlife is indeed the future of tourism in Africa and in Tanzania in particular.<\/p><p>Antonina is specialising in alternative routes only, curating every single trip herself by carefully designing the itineraries. She has a personal approach to every single client and adapt to their needs and goals. Her aim is for her guests to see another side of Tanzania - a pure, wild and untouched.<\/p><p>Her list of clients include filmmakers, photographers, artists and researchers.<\/p>",
+            "product_description": false
+          }
         }
       },
       "block_order": [
         "2b7ee18b-2f47-46a6-a7e9-9e47b2063c87",
-        "text"
+        "text",
+        "b80c9866-a881-4f1f-84a4-7314818cfdfd",
+        "c809960a-4f36-46e4-b6eb-a707edcfaa0f"
       ],
       "settings": {
         "align_text": "center",
