@@ -19,7 +19,7 @@
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/unnamed_0f6fd9e1-c182-4e70-bf42-b50b88224d71.jpg",
+            "image": "shopify:\/\/shop_images\/test_1.jpg",
             "show_imageproduct": false,
             "overlay_opacity": 0,
             "focal_point": "bottom center"
@@ -83,29 +83,6 @@
         "divider": false
       }
     },
-    "1646883852e4195467": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "Team of dedicated professionals",
-        "text": "<p>We are a group of interdisciplinary professionals who have passion for adventure and exploration and with a baggage of knowledge and experience behind our backs. Every route that we design is carefully thought and diligently planned. We take time to hear your thoughts, desires and expectations. There are no boundaries for us when it comes to exploring a particular subject - whether it is wildlife or culture. <\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/team_b08a4495-57d7-474e-976e-18acf6bf6986.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 750,
-        "parallax": false
-      }
-    },
-    "16468841158f2fa4be": {
-      "type": "rich-text",
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "16565172857e3b6b3e": {
       "type": "text-columns",
       "blocks": {
@@ -133,6 +110,29 @@
         "divider": false
       }
     },
+    "1646883852e4195467": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Team of dedicated professionals",
+        "text": "<p>We are a group of interdisciplinary professionals who have passion for adventure and exploration and with a baggage of knowledge and experience behind our backs. Every route that we design is carefully thought and diligently planned. We take time to hear your thoughts, desires and expectations. There are no boundaries for us when it comes to exploring a particular subject - whether it is wildlife or culture. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/team_b08a4495-57d7-474e-976e-18acf6bf6986.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 750,
+        "parallax": false
+      }
+    },
+    "16468841158f2fa4be": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "form": {
       "type": "contact-form",
       "disabled": true,
@@ -149,9 +149,9 @@
     "main",
     "slideshow",
     "rich-text",
+    "16565172857e3b6b3e",
     "1646883852e4195467",
     "16468841158f2fa4be",
-    "16565172857e3b6b3e",
     "form"
   ]
 }
