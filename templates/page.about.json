@@ -19,7 +19,7 @@
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/test_1.jpg",
+            "image": "shopify:\/\/shop_images\/test.jpg",
             "show_imageproduct": false,
             "overlay_opacity": 0,
             "focal_point": "bottom center"
@@ -47,7 +47,7 @@
         "43fd50f5-1dcd-4133-b38b-7ca62a13a903"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "650px",
         "mobile_height": "250px",
         "parallax": false,
         "style": "arrows",
