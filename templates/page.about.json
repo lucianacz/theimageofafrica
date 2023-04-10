@@ -77,8 +77,23 @@
           "settings": {
             "title": ""
           }
-        },
-        "b80c9866-a881-4f1f-84a4-7314818cfdfd": {
+        }
+      },
+      "block_order": [
+        "2b7ee18b-2f47-46a6-a7e9-9e47b2063c87",
+        "text",
+        "57a27ad3-2757-4228-998a-be749d33dbe5"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "afaeafd8-8648-4efb-9ea3-60f692ee48bc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16657122197760__afaeafd8-8648-4efb-9ea3-60f692ee48bc-168110770772b08402-0": {
           "type": "heading",
           "settings": {
             "title": "OUR FOUNDER AND CEO"
@@ -86,10 +101,7 @@
         }
       },
       "block_order": [
-        "2b7ee18b-2f47-46a6-a7e9-9e47b2063c87",
-        "text",
-        "57a27ad3-2757-4228-998a-be749d33dbe5",
-        "b80c9866-a881-4f1f-84a4-7314818cfdfd"
+        "template--16657122197760__afaeafd8-8648-4efb-9ea3-60f692ee48bc-168110770772b08402-0"
       ],
       "settings": {
         "align_text": "center",
@@ -162,6 +174,7 @@
     "main",
     "slideshow",
     "rich-text",
+    "afaeafd8-8648-4efb-9ea3-60f692ee48bc",
     "16565172857e3b6b3e",
     "16468841158f2fa4be",
     "form"
