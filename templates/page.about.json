@@ -82,7 +82,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<h3><strong>Antonina Zharko<\/strong><\/h3><p>Antonina, born and raised in Siberia, is a photographer with 12 years of experience in fine art, portrait, documentary and fashion photography. She accomplished her photography degree with excellence in the department of journalism and social communications in Dublin, Ireland and had been living in New York, Ireland and the United Kingdom before she settled in Tanzania. There she discovered her true passion for Africa and exploration of remote places. Her experience of Tanzanian ‘wonderland’ and its unexplored interior had led her to create a travel company that would give a chance to the like-minded individuals to experience what she has been experiencing up to this day. This strong, powerful feeling from interaction with African cultures has become the main driving force for deep exploration of Tanzania, and therefore she wants to pass and share her knowledge with guests by crafting off-the-beaten-track routes. She believes that this mind-transforming experience, respectful and gentle approach to traveling and cultural interactions as well as closeness to nature and wildlife is indeed the future of tourism in Africa and in Tanzania in particular.<\/p><p>Antonina is specialising in alternative routes only, curating every single trip herself by carefully designing the itineraries. She has a personal approach to every single client and adapt to their needs and goals. Her aim is for her guests to see another side of Tanzania - a pure, wild and untouched.<\/p><p>Her list of clients include filmmakers, photographers, artists and researchers.<\/p>",
+            "text": "<h3><\/h3><h3><strong>Antonina Zharko<\/strong><\/h3><p>Antonina, born and raised in Siberia, is a photographer with 12 years of experience in fine art, portrait, documentary and fashion photography. She accomplished her photography degree with excellence in the department of journalism and social communications in Dublin, Ireland and had been living in New York, Ireland and the United Kingdom before she settled in Tanzania. There she discovered her true passion for Africa and exploration of remote places. Her experience of Tanzanian ‘wonderland’ and its unexplored interior had led her to create a travel company that would give a chance to the like-minded individuals to experience what she has been experiencing up to this day. This strong, powerful feeling from interaction with African cultures has become the main driving force for deep exploration of Tanzania, and therefore she wants to pass and share her knowledge with guests by crafting off-the-beaten-track routes. She believes that this mind-transforming experience, respectful and gentle approach to traveling and cultural interactions as well as closeness to nature and wildlife is indeed the future of tourism in Africa and in Tanzania in particular.<\/p><p>Antonina is specialising in alternative routes only, curating every single trip herself by carefully designing the itineraries. She has a personal approach to every single client and adapt to their needs and goals. Her aim is for her guests to see another side of Tanzania - a pure, wild and untouched.<\/p><p>Her list of clients include filmmakers, photographers, artists and researchers.<\/p>",
             "product_description": false
           }
         }
@@ -126,21 +126,6 @@
         "divider": false
       }
     },
-    "1646883852e4195467": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "Team of dedicated professionals",
-        "text": "<p>We are a group of interdisciplinary professionals who have passion for adventure and exploration and with a baggage of knowledge and experience behind our backs. Every route that we design is carefully thought and diligently planned. We take time to hear your thoughts, desires and expectations. There are no boundaries for us when it comes to exploring a particular subject - whether it is wildlife or culture. <\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/team_b08a4495-57d7-474e-976e-18acf6bf6986.jpg",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 750,
-        "parallax": false
-      }
-    },
     "16468841158f2fa4be": {
       "type": "rich-text",
       "settings": {
@@ -166,7 +151,6 @@
     "slideshow",
     "rich-text",
     "16565172857e3b6b3e",
-    "1646883852e4195467",
     "16468841158f2fa4be",
     "form"
   ]
