@@ -11,7 +11,7 @@
         "text_align": "vertical-center horizontal-center",
         "video_url": "https:\/\/youtu.be\/QrmG2R6fbBI",
         "overlay_opacity": 0,
-        "section_height": "450px",
+        "section_height": "16-9",
         "mobile_height": "250px"
       }
     },
