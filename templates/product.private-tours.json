@@ -105,7 +105,7 @@
           "settings": {
             "title": "",
             "title_2": "{{ product.title }}",
-            "title_size": 58,
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
