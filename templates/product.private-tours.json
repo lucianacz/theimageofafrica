@@ -267,16 +267,16 @@
         "b1e77495-8054-4656-93ad-6b44dc7bef42": {
           "type": "tab",
           "settings": {
-            "title": "November 1: Arrival at Dar es Salaam airport. Meet and greet upon arrival. Transfer to the hotel..",
-            "content": "<p>Our driver will be waiting for you at the airport to transfer you to your lodge in Dar es Salaam. Upon arrival at the lodge, your tour leader and a member of our team will meet you for a briefing and Q&A about your trip. <\/p><p>Accommodation: <a href=\"https:\/\/alexanders-tz.com\/#\" target=\"_blank\" title=\"https:\/\/alexanders-tz.com\/#\">Alexander's Hotel<\/a><\/p><p>Single and twin rooms will be available.<\/p>",
+            "title": "{{ product.metafields.tia.day_1_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_1_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "ea571334-e00e-43b1-b587-443a2b879ad4": {
           "type": "tab",
           "settings": {
-            "title": "November 2: Domestic air transfer from Dar es Salaam to Mbeya.",
-            "content": "<p>Your plane will arrive at Mbeya in the late evening and our land cruiser vehicle will be waiting for you to meet you at the airport and take you to your guesthouse. The guesthouse is a local comfortable guesthouse with ensuite hot shower and all other necessary facilities for comfortable stay.<\/p><p>Single and twin rooms are available.<\/p>",
+            "title": "{{ product.metafields.tia.day_2_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_2_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
