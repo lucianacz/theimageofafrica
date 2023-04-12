@@ -283,64 +283,64 @@
         "7bf85adc-f1f0-489d-b201-1343c740a458": {
           "type": "tab",
           "settings": {
-            "title": "November 3: Full day in Mbeya exploring one of the biggest cocoa farms in Southern Tanzania",
-            "content": "<p>Perched at an elevation of 1,737m in a valley below the extensive Mbeya Range. Mbeya was established in 1927 to service the Lupa gold fields near Chunya. Although the mining ceased in the 1950s, Mbeya has continued to prosper thanks to the rich agricultural land that surrounds it. With a population of 230,000 (this may have increased by now), it is today the third largest town in Tanzania. Mbeya is an appealing town, with a skyline dominated by the impressive – and climbable – Mbeya and Loleza peaks. It is a good base for exploring for exploring the southern highlands. We will explore cocoa farm while in Mbeya with full insight in the cocoa production. <\/p><p>We will finish our day roaming the streets of Mbeya for any photographic opportunities.<\/p><p>Accommodation: Local guesthouse.<\/p>",
+            "title": "{{ product.metafields.tia.day_3_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_3_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "d0c08997-19d3-45ab-bcf9-86bd38236a2f": {
           "type": "tab",
           "settings": {
-            "title": "November 4: Visit to Matema beach.",
-            "content": "<p>It will take us about 2 hours to get to the picturesque Matema Beach. Upon arrival, our camp will be set up for us on the lake shore. Sunset at the lake and interacting with local people, most of them are Nyakyusa tribe and immigrants fishermen from Malawi. Those who are brave can go fishing in local dhow for the entire night.<\/p><p>Accommodation: camping in the Lake Nyasa shore.<\/p>",
+            "title": "{{ product.metafields.tia.day_4_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_4_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "65a4bd22-b132-4460-b294-5788222927ec": {
           "type": "tab",
           "settings": {
-            "title": "November 5: Visit fish market in Matema beach.",
-            "content": "<p>Early call time. 5 am quick breakfast and go to the fish market in Matema to meet the fishermen coming from their night fish hunt. Prepare for crowds of people. We will wait till the market is about to finish and will continue mingling with the locals. The we proceed to your camp for a bit of rest and lunch.<br\/>After lunch jump on the boat (paddle boat) depending on the lake condition, we may change the plan and will do the boating early morning instead when the lake is steal. We will play it by ear. We will boat down Lyufilyo river, which takes its beginning in Lake Nyasa. You may come across people on the way and may hang out with them. You are free to stop and photograph if needed.<br\/><br\/>After boating, get back to your camp for sundowner or go explore the fishermen evening life and sit by the fire with them.  You are absolutely free to explore the area and communicate with people. They love discussing things with strangers. We may stop by at local bar for couple of beers and discuss matters with local men. This is part of the experience and integrating with the people is priceless, expect surprises on the way. You never know who you going to meet on your way and that is a beauty of such an improvised exploration.<br\/>Return to your camp and spend evening by the fire, dinner and sleep.<\/p><p>Accommodation: camping at the Lake shore.<\/p>",
+            "title": "{{ product.metafields.tia.day_5_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_5_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "9236351a-0824-4af0-9a27-bb661793f1c5": {
           "type": "tab",
           "settings": {
-            "title": "November 6: Visit to Ikombe village.",
-            "content": "<p>Early morning at 6am we should be at the market where the boats depart to other villages. We will take a public boat to Ikombe village. The boat will be overcrowded with people and other load. You will have enough space as tourism council of the region and us, as a company, will make sure you are safe.<br\/>Located on the peninsula of Lake Nyasa, at the foothills of the Livingstone Mountains, this remote village village can be reached by boat or foot from Matema or Lyulilo. This is the village where most of the pottery sold in Matema and the surrounding areas is produced (in furnaces). Most of the people living in this industrial area earn their livelihoods through the production of pottery.<br\/>We do hope we will see the traditional dance of Nyakyusa people. We usually do not force anyone to perform but if people are in the mood they will be happy to make a party and we will be welcome to participate.<br\/>In the afternoon we set up camp on the shore of the lake with a sundowner, and enjoy sunset. The lake will be our shower. The lake is clean and you are free to take a refreshing bath there.<\/p><p>Accommodation: Camping at the Lake shore.<\/p>",
+            "title": "{{ product.metafields.tia.day_6_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_6_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "0c02707f-4584-4a02-934b-a23abbcd5964": {
           "type": "tab",
           "settings": {
-            "title": "November 7: Boat to Lumbila and hiking Livingstone Mountains.",
-            "content": "<p>Early morning we take a public boat heading to Lumbila. About 2 hours by boat. Upon arrival to Lumbila, we will have quick lunch and will start hiking the Livingstone mountains. Up and down for about 7 hours. We will cross the Livingstone mountains range and will get to the nearest village by early evening. Get your warm clothes ready, it will be cold at the village.<br\/>We set up our tents at the village facing the breathtaking view of the Livingstone mountains. Sundowner. Dinner and sleep.<\/p><p>Accommodation: Camping in the mountains.<\/p><p>As an option, we can camp in the Livingstone mountains for the night before we reach the village in the next morning. This option will be adjusted along the way.<\/p>",
+            "title": "{{ product.metafields.tia.day_7_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_7_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "063730f9-8713-4975-bd49-b6a29bef5e64": {
           "type": "tab",
           "settings": {
-            "title": "November 8: Motorcycling to the town of Njombe.",
-            "content": "<p>Sunrise in the mountains with hot coffee. Feel free to roam around the village. The village is located on the hill, up and down, but gorgeous among the mountains and hills. Get ready to take motorcycle to drive to the town of Njombe. You will pass through the pine trees plantations with stanning views of Livingstone mountains chain. Get your warm clothes on, it will be chilly. Enjoy the ride. The vehicle will be waiting for us in Njombe from where we will depart to Iringa and will check into local hotel in the late afternoon (evening).<\/p><p>Accommodation: Local guesthouse.<\/p>",
+            "title": "{{ product.metafields.tia.day_8_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_8_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "cd3d2d15-921a-4347-b004-b615b121fd6f": {
           "type": "tab",
           "settings": {
-            "title": "November 9-11: Ruaha National Park.",
-            "content": "<p>Another exciting part of the tour – Ruaha National Park, and one of the most remote, incredible natural gems in Tanzania. We check in Usangu camp and proceed exploring the park with game drives and walking safaris, nighttime safaris as well as get some insights into wildlife conservation.<\/p><p>Accommodation: <a href=\"https:\/\/www.asiliaafrica.com\/camps-lodges\/usangu-expedition-camp\/?utm_campaign=19744358090&utm_source=google&utm_medium=cpc&utm_content=649554718297&utm_term=usangu%20expedition%20camp&adgroupid=141710044050&gclid=CjwKCAjwitShBhA6EiwAq3RqAxvupdv8IU4KyC411VwIf5-DMF9Xjqhe5N3bURiG6U9Rnq2KpBheKxoCj_8QAvD_BwE\" target=\"_blank\" title=\"https:\/\/www.asiliaafrica.com\/camps-lodges\/usangu-expedition-camp\/?utm_campaign=19744358090&utm_source=google&utm_medium=cpc&utm_content=649554718297&utm_term=usangu%20expedition%20camp&adgroupid=141710044050&gclid=CjwKCAjwitShBhA6EiwAq3RqAxvupdv8IU4KyC411VwIf5-DMF9Xjqhe5N3bURiG6U9Rnq2KpBheKxoCj_8QAvD_BwE\">Usangu Camp<\/a><\/p>",
+            "title": "{{ product.metafields.tia.day_9_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_9_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "f95fa648-a84f-4d28-8ecf-9527abb51658": {
           "type": "tab",
           "settings": {
-            "title": "November 12: Air transfer from Ruaha airstrip to Dar es Salaam.",
-            "content": "<p>In the morning be ready for the flight back to dar es salaam, where our services will end.<br\/>However, if you wish to proceed to Zanzibar, Pemba or Mafia Islands or any coastal areas we can arrange the extension trip for you at extra cost.<\/p><p>We are here for you to make your trip exciting and memorable.<\/p>",
+            "title": "{{ product.metafields.tia.day_10_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_10_content | metafield_tag }}<\/p>",
             "page": ""
           }
         },
