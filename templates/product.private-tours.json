@@ -344,6 +344,30 @@
             "page": ""
           }
         },
+        "c4a8e1e5-f8a6-4850-ac2f-5ab87f97e3c1": {
+          "type": "tab",
+          "settings": {
+            "title": "{{ product.metafields.tia.day_11_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_11_content | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "e2e5f553-cbe7-4755-aad0-073f2ec5fee6": {
+          "type": "tab",
+          "settings": {
+            "title": "{{ product.metafields.title.day_12_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_12_content | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "f6d6fce8-64ea-4751-867a-5895058b6096": {
+          "type": "tab",
+          "settings": {
+            "title": "{{ product.metafields.tia.day_13_title.value }}",
+            "content": "<p>{{ product.metafields.tia.day_13_content | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
         "2467d23c-062a-474a-aa04-5dda4d9cfa08": {
           "type": "tab",
           "settings": {
@@ -372,6 +396,9 @@
         "063730f9-8713-4975-bd49-b6a29bef5e64",
         "cd3d2d15-921a-4347-b004-b615b121fd6f",
         "f95fa648-a84f-4d28-8ecf-9527abb51658",
+        "c4a8e1e5-f8a6-4850-ac2f-5ab87f97e3c1",
+        "e2e5f553-cbe7-4755-aad0-073f2ec5fee6",
+        "f6d6fce8-64ea-4751-867a-5895058b6096",
         "2467d23c-062a-474a-aa04-5dda4d9cfa08",
         "cc988a3a-307b-412b-8ea3-dd780637824d"
       ],
