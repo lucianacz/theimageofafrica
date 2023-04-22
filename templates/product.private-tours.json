@@ -406,12 +406,6 @@
         "max_width": true
       }
     },
-    "prices": {
-      "type": "prices",
-      "settings": {
-        "title": "Prices"
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -499,7 +493,7 @@
     "16534070510e082984": {
       "type": "contact-form",
       "settings": {
-        "title": "Want to book this tour? Send us a message",
+        "title": "Want to book this tour? To inquire about the price send us a message.",
         "text": "",
         "show_phone": false,
         "show_country": false,
@@ -513,7 +507,6 @@
     "164791445686716d03",
     "165040547297d0bfea",
     "sub",
-    "prices",
     "product-recommendations",
     "collection-return",
     "1651118798ca52375b",
