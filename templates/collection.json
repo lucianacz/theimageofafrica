@@ -6,7 +6,8 @@
         "collection_description": {
           "type": "collection_description",
           "disabled": true,
-          "settings": {}
+          "settings": {
+          }
         },
         "product_grid": {
           "type": "product_grid",
@@ -22,7 +23,7 @@
         "product_grid"
       ],
       "settings": {
-        "collection_image_enable": true,
+        "collection_image_enable": false,
         "collection_image_height": 350,
         "parallax": false,
         "enable_sidebar": false,
