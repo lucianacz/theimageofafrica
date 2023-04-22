@@ -498,19 +498,10 @@
           "settings": {
             "title": ""
           }
-        },
-        "template--16657123016960__34317a0a-1566-4669-9a3c-cfed8ef85330-16821534023bb49800-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "",
-            "product_description": false
-          }
         }
       },
       "block_order": [
-        "template--16657123016960__34317a0a-1566-4669-9a3c-cfed8ef85330-16821534023bb49800-0",
-        "template--16657123016960__34317a0a-1566-4669-9a3c-cfed8ef85330-16821534023bb49800-1"
+        "template--16657123016960__34317a0a-1566-4669-9a3c-cfed8ef85330-16821534023bb49800-0"
       ],
       "settings": {
         "align_text": "center",
