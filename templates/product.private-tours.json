@@ -496,7 +496,7 @@
         "title": "Want to book this tour? To inquire about the price send us a message.",
         "text": "",
         "show_phone": false,
-        "show_country": false,
+        "show_country": true,
         "narrow_column": true
       }
     }
