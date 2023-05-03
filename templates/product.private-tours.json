@@ -383,6 +383,12 @@
             "content": "<p>{{ product.metafields.tia.day_15_content | metafield_tag }}<\/p>",
             "page": ""
           }
+        },
+        "14b5025e-629f-4f28-b109-3f2531b0054a": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
         }
       },
       "block_order": [
@@ -400,7 +406,8 @@
         "e2e5f553-cbe7-4755-aad0-073f2ec5fee6",
         "f6d6fce8-64ea-4751-867a-5895058b6096",
         "2467d23c-062a-474a-aa04-5dda4d9cfa08",
-        "cc988a3a-307b-412b-8ea3-dd780637824d"
+        "cc988a3a-307b-412b-8ea3-dd780637824d",
+        "14b5025e-629f-4f28-b109-3f2531b0054a"
       ],
       "settings": {
         "max_width": true
@@ -509,6 +516,34 @@
         "divider": false
       }
     },
+    "aae6c96c-6e4b-4d7f-b33c-086d8e3a1994": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Tour price:"
+          }
+        },
+        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Starts from <\/p>",
+            "product_description": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-0",
+        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "16534070510e082984": {
       "type": "contact-form",
       "settings": {
@@ -530,6 +565,7 @@
     "collection-return",
     "1651118798ca52375b",
     "34317a0a-1566-4669-9a3c-cfed8ef85330",
+    "aae6c96c-6e4b-4d7f-b33c-086d8e3a1994",
     "16534070510e082984"
   ]
 }
