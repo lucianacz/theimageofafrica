@@ -516,34 +516,6 @@
         "divider": false
       }
     },
-    "aae6c96c-6e4b-4d7f-b33c-086d8e3a1994": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Tour price:"
-          }
-        },
-        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Starts from <\/p>",
-            "product_description": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-0",
-        "template--16657123016960__aae6c96c-6e4b-4d7f-b33c-086d8e3a1994-168312026391881a72-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "16534070510e082984": {
       "type": "contact-form",
       "settings": {
@@ -565,7 +537,6 @@
     "collection-return",
     "1651118798ca52375b",
     "34317a0a-1566-4669-9a3c-cfed8ef85330",
-    "aae6c96c-6e4b-4d7f-b33c-086d8e3a1994",
     "16534070510e082984"
   ]
 }
