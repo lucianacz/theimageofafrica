@@ -387,7 +387,7 @@
         "d7f2d640-f36d-4b75-8585-3da5cff03cc6": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "{{ product.metafields.custom.price_text.value }}"
           }
         }
       },
