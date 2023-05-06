@@ -7,7 +7,11 @@
     {%- if section.settings.title != blank -%}
       <div class="section-header">
         <h2 class="section-header__title">
-          {{ section.settings.title }}
+          {% if product.metafields.custom.price_text != blank %}
+            {{ section.settings.title_if_price }}
+          {%- else -%}
+            {{ section.settings.title }}
+          {%- endif -%}
         </h2>
         {%- if section.settings.text != blank -%}
           <div class="rte section-header__rte">{{ section.settings.text }}</div>
@@ -98,7 +102,13 @@
       {
         "type": "text",
         "id": "title",
-        "label": "Title",
+        "label": "Title when no price",
+        "default": "Contact us"
+      },
+      {
+        "type": "text",
+        "id": "title_if_price",
+        "label": "Title when price is set",
         "default": "Contact us"
       },
       {
