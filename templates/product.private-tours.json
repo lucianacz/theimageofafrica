@@ -520,7 +520,8 @@
     "16534070510e082984": {
       "type": "contact-form",
       "settings": {
-        "title": "Want to book this tour? Send us a message.",
+        "title": "Want to book this tour? Inquire about the price by sending us a message.",
+        "title_if_price": "Want to book this tour? Send us a message.",
         "text": "",
         "show_phone": false,
         "show_country": true,
