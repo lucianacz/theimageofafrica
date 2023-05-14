@@ -47,10 +47,25 @@
         "divider": true
       }
     },
+    "5d2fa75f-a803-4fb2-ae0a-8a1c6fcbedde": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Photo-landing-page-1.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "parallax": true
+      }
+    },
     "164627793720202555": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/team.jpg",
+        "image": "shopify:\/\/shop_images\/Photo-landing-page-1.jpg",
         "image_width": 700,
         "subtitle": "",
         "title": "ABOUT US",
@@ -59,7 +74,7 @@
         "button_link": "shopify:\/\/pages\/about-us",
         "button_style": "primary",
         "align_text": "left",
-        "layout": "left",
+        "layout": "right",
         "divider": false
       }
     },
@@ -156,6 +171,7 @@
     "1646882499f55dc73c",
     "rich-text",
     "16468858535718e312",
+    "5d2fa75f-a803-4fb2-ae0a-8a1c6fcbedde",
     "164627793720202555",
     "1646276375443afb2c",
     "1646885649c2a2aa53",
