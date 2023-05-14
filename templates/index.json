@@ -66,48 +66,16 @@
     "1646276375443afb2c": {
       "type": "slideshow",
       "blocks": {
-        "1646276375ce301b63-0": {
-          "type": "image",
-          "settings": {
-            "title": "CULTURAL\nEXPERIENCE",
-            "title_2": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "shopify:\/\/pages\/cultural-experience",
-            "link_text": "READ MORE",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Ritual_among_maasai.jpg",
-            "show_imageproduct": false,
-            "overlay_opacity": 34,
-            "focal_point": "center center"
-          }
-        },
-        "1646276375ce301b63-1": {
-          "type": "image",
-          "settings": {
-            "title": "WILDLIFE\nEXPERIENCE",
-            "title_2": "",
-            "title_size": 72,
-            "subheading": "",
-            "link": "shopify:\/\/pages\/wildlife-experience",
-            "link_text": "READ MORE",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Flamingo_in_serengeti.jpg",
-            "show_imageproduct": false,
-            "overlay_opacity": 24,
-            "focal_point": "center center"
-          }
-        },
         "8af9b7b7-5e7b-4a4c-bfc1-5f8f097ac1a3": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide title.",
+            "title": "Our goal is to explore the unexplored, to reach the unreachable, to show raw Africa with all its diversity.",
             "title_2": "",
-            "title_size": 69,
-            "subheading": "And an optional subheading",
+            "title_size": 40,
+            "subheading": "You may make your own discoveries along the way and we are here to help you with that.",
             "link": "",
             "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
+            "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Photo-landing-page-1.jpg",
             "show_imageproduct": false,
             "overlay_opacity": 0,
@@ -116,8 +84,6 @@
         }
       },
       "block_order": [
-        "1646276375ce301b63-0",
-        "1646276375ce301b63-1",
         "8af9b7b7-5e7b-4a4c-bfc1-5f8f097ac1a3"
       ],
       "settings": {
