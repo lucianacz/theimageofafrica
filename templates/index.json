@@ -47,22 +47,6 @@
         "divider": true
       }
     },
-    "164627793720202555": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Photo-landing-page-1.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "ABOUT US",
-        "text": "<p>The Image of Africa creates alternative routes and experiences that will lead you to a deeper understanding of Tanzania and its people. We are carefully crafting routes to suit each particular individual. Sometimes, the routes are theme-based and involve complex logistics. We believe that the profound experience that we are able to deliver to you can change the way you see the world. We want to encourage you to choose genuine travel experiences with sustainable practices of high quality standards and we are here to offer them to you!<\/p>",
-        "button_label": "READ MORE",
-        "button_link": "shopify:\/\/pages\/about-us",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "1646276375443afb2c": {
       "type": "slideshow",
       "blocks": {
@@ -139,7 +123,6 @@
     "1646882499f55dc73c",
     "rich-text",
     "16468858535718e312",
-    "164627793720202555",
     "1646276375443afb2c",
     "1646885649c2a2aa53",
     "1646279943d2bdd851"
