@@ -328,7 +328,8 @@
     "1647915074966635a2": {
       "type": "contact-form",
       "settings": {
-        "title": "DO YOU WANT MORE INFORMATION?",
+        "title": "FOR MORE INFORMATION CONTACT US",
+        "title_if_price": "Contact us",
         "text": "",
         "show_phone": true,
         "show_country": true,
