@@ -116,7 +116,7 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/88CF7CD9-D5F9-449E-91A7-B13D00922CD5.jpg",
+            "image": "shopify:\/\/shop_images\/profile-pic.jpg",
             "image_width": 650,
             "subheading": "",
             "title": "",
@@ -134,7 +134,7 @@
             "subheading": "",
             "title": "",
             "uppercase": true,
-            "text": "<h3><strong>Antonina Zharko<\/strong><\/h3><p>Antonina, born and raised in Siberia, is a photographer with 12 years of experience in fine art, portrait, documentary and fashion photography. She accomplished her photography degree with excellence in the department of journalism and social communications in Dublin, Ireland and had been living in New York, Ireland and the United Kingdom before she settled in Tanzania. There she discovered her true passion for Africa and exploration of remote places. Her experience of Tanzanian ‘wonderland’ and its unexplored interior had led her to create a travel company that would give a chance to the like-minded individuals to experience what she has been experiencing up to this day. This strong, powerful feeling from interaction with African cultures has become the main driving force for deep exploration of Tanzania, and therefore she wants to pass and share her knowledge with guests by crafting off-the-beaten-track routes. She believes that this mind-transforming experience, respectful and gentle approach to traveling and cultural interactions as well as closeness to nature and wildlife is indeed the future of tourism in Africa and in Tanzania in particular.<\/p><p>Antonina is specialising in alternative routes only, curating every single trip herself by carefully designing the itineraries. She has a personal approach to every single client and adapt to their needs and goals. Her aim is for her guests to see another side of Tanzania - a pure, wild and untouched.<\/p><p><strong>Her list of clients include filmmakers, photographers, artists and researchers.<\/strong><\/p>",
+            "text": "<h3><strong>Antonina Zharko<\/strong><\/h3><p>Antonina, born and raised in Siberia, is a photographer with 14 years of experience in fine art, portrait, documentary and fashion photography. She accomplished her photography degree with distinction in the department of journalism and social communications in Dublin, Ireland and had been living in New York, Ireland and the United Kingdom before she settled in Tanzania. There she discovered her true passion for Africa and exploration of remote places. Her experience of Tanzanian ‘wonderland’ and its unexplored interior had led her to create a travel company that would give a chance to the like-minded individuals to experience what she has been experiencing up to this day. This strong, powerful feeling from interaction with African wilderness has become the main driving force for deep exploration of Tanzania, and therefore she wants to pass and share her knowledge with guests by crafting off-the-beaten-track routes. She believes that this mind-transforming experience, respectful and gentle approach to traveling, wildlife and cultural interactions is indeed the future of tourism in Africa and in Tanzania in particular.<\/p><p>Antonina is specialising in alternative and private routes only, curating every single trip herself by carefully designing the itineraries. She has a personal approach to every single client and adapt to their needs and goals. Her aim is for her guests to see another side of Tanzania - a pure, wild and untouched.<\/p><p><strong>Her list of clients include filmmakers, photographers, artists and researchers, and a list of private travellers.<\/strong><\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -163,6 +163,7 @@
       "disabled": true,
       "settings": {
         "title": "Contact us",
+        "title_if_price": "Contact us",
         "text": "",
         "show_phone": false,
         "show_country": false,
